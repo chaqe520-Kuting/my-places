@@ -1,7 +1,19 @@
 {
  "updated": "2026-11-03",
- "source": "Takeout 2026-11-02（手動上傳）",
+ "source": "Drive:1FvgZlGyQZelxZsIKsGoHkPz944Z5JiJc 2026-11-03T08:49:02.622Z takeout-20261103T084849Z-1-001.zip",
  "places": [
+  {
+   "name": "土溝代天府",
+   "cat": "🙏 宮廟寺院",
+   "region": "嘉義",
+   "notes": "廖家弘的家附近",
+   "lists": [
+    "朋友的家",
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%9C%9F%E6%BA%9D%E4%BB%A3%E5%A4%A9%E5%BA%9C/data=!4m2!3m1!1s0x346e902a3bcdc471:0x365935b9f842f000",
+   "origName": "土溝代天府"
+  },
   {
    "name": "南濟壇",
    "cat": "🙏 宮廟寺院",
@@ -24,18 +36,6 @@
    ],
    "url": "http://maps.google.com/?cid=8513060903411244928",
    "origName": "民雄番仔溝玄武宮"
-  },
-  {
-   "name": "土溝代天府",
-   "cat": "🙏 宮廟寺院",
-   "region": "嘉義",
-   "notes": "廖家弘的家附近",
-   "lists": [
-    "朋友的家",
-    "好吃的美食"
-   ],
-   "url": "https://www.google.com/maps/place/%E5%9C%9F%E6%BA%9D%E4%BB%A3%E5%A4%A9%E5%BA%9C/data=!4m2!3m1!1s0x346e902a3bcdc471:0x365935b9f842f000",
-   "origName": "土溝代天府"
   },
   {
    "name": "埤仔頭王靈宮",
@@ -94,18 +94,6 @@
    ],
    "url": "https://www.google.com/maps/place/%E4%BD%B3%E5%AE%B6%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m2!3m1!1s0x346e1b3c63fd1779:0x410efd578337d57c",
    "origName": "佳家早餐店"
-  },
-  {
-   "name": "禪廚蔬食餐廳",
-   "cat": "🥬 素食餐廳",
-   "region": "苗栗頭屋",
-   "notes": "苗栗頭屋",
-   "lists": [
-    "5_8日本自駕之旅",
-    "素食餐廳"
-   ],
-   "url": "https://www.google.com/maps/place/%E7%A6%AA%E5%BB%9A%E8%94%AC%E9%A3%9F%E9%A4%90%E5%BB%B3+%7C+%E8%B6%85%E4%BA%BA%E6%B0%A3%7C+%E9%A0%AD%E5%B1%8B%E4%BA%A4%E6%B5%81%E9%81%93%E7%B4%A0%E9%A3%9F+%7C%E8%8B%97%E6%A0%97%E5%BF%85%E5%90%83+%7C/data=!4m2!3m1!1s0x3469ac0c045c7c4d:0x69697f20afa030ba",
-   "origName": "禪廚蔬食餐廳 | 超人氣| 頭屋交流道素食 |苗栗必吃 |"
   },
   {
    "name": "花果蔬嚴選蔬食（無洗手間）",
@@ -176,6 +164,18 @@
    ],
    "url": "https://www.google.com/maps/place/%E7%BE%A3%E8%8A%B3%E8%94%AC%E9%A3%9F/data=!4m2!3m1!1s0x140f2e9721cbf123:0x52b7c3b058a37342",
    "origName": "羣芳蔬食"
+  },
+  {
+   "name": "禪廚蔬食餐廳",
+   "cat": "🥬 素食餐廳",
+   "region": "苗栗頭屋",
+   "notes": "苗栗頭屋",
+   "lists": [
+    "5_8日本自駕之旅",
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%A6%AA%E5%BB%9A%E8%94%AC%E9%A3%9F%E9%A4%90%E5%BB%B3+%7C+%E8%B6%85%E4%BA%BA%E6%B0%A3%7C+%E9%A0%AD%E5%B1%8B%E4%BA%A4%E6%B5%81%E9%81%93%E7%B4%A0%E9%A3%9F+%7C%E8%8B%97%E6%A0%97%E5%BF%85%E5%90%83+%7C/data=!4m2!3m1!1s0x3469ac0c045c7c4d:0x69697f20afa030ba",
+   "origName": "禪廚蔬食餐廳 | 超人氣| 頭屋交流道素食 |苗栗必吃 |"
   },
   {
    "name": "品香蔬食",
@@ -651,6 +651,50 @@
    "origName": "健康原素（新生店）"
   },
   {
+   "name": "竹居茶樓",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "素食",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%AB%B9%E5%B1%85%E8%8C%B6%E6%A8%93/data=!4m2!3m1!1s0x346e9454860b014f:0x4ceca898990a3cc6",
+   "origName": "竹居茶樓"
+  },
+  {
+   "name": "饍香養生素食",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%A5%8D%E9%A6%99%E9%A4%8A%E7%94%9F%E7%B4%A0%E9%A3%9F/data=!4m2!3m1!1s0x346821d6b6c1809b:0x374b187be79a175a",
+   "origName": "饍香養生素食"
+  },
+  {
+   "name": "新素食堂",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%96%B0%E7%B4%A0%E9%A3%9F%E5%A0%82/data=!4m2!3m1!1s0x34691a1ba7d6e103:0xbd78398b864f760f",
+   "origName": "新素食堂"
+  },
+  {
+   "name": "雪廬素食麵館",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%9B%AA%E5%BB%AC%E7%B4%A0%E9%A3%9F%E9%BA%B5%E9%A4%A8/data=!4m2!3m1!1s0x34691a0676478d8b:0xacf00db1b3544bd7",
+   "origName": "雪廬素食麵館"
+  },
+  {
    "name": "澄香居蔬食滷味",
    "cat": "🥬 素食餐廳",
    "region": "",
@@ -706,50 +750,6 @@
    "origName": "家秝私廚"
   },
   {
-   "name": "竹居茶樓",
-   "cat": "🥬 素食餐廳",
-   "region": "",
-   "notes": "素食",
-   "lists": [
-    "好吃的美食"
-   ],
-   "url": "https://www.google.com/maps/place/%E7%AB%B9%E5%B1%85%E8%8C%B6%E6%A8%93/data=!4m2!3m1!1s0x346e9454860b014f:0x4ceca898990a3cc6",
-   "origName": "竹居茶樓"
-  },
-  {
-   "name": "饍香養生素食",
-   "cat": "🥬 素食餐廳",
-   "region": "",
-   "notes": "",
-   "lists": [
-    "好吃的美食"
-   ],
-   "url": "https://www.google.com/maps/place/%E9%A5%8D%E9%A6%99%E9%A4%8A%E7%94%9F%E7%B4%A0%E9%A3%9F/data=!4m2!3m1!1s0x346821d6b6c1809b:0x374b187be79a175a",
-   "origName": "饍香養生素食"
-  },
-  {
-   "name": "新素食堂",
-   "cat": "🥬 素食餐廳",
-   "region": "",
-   "notes": "",
-   "lists": [
-    "好吃的美食"
-   ],
-   "url": "https://www.google.com/maps/place/%E6%96%B0%E7%B4%A0%E9%A3%9F%E5%A0%82/data=!4m2!3m1!1s0x34691a1ba7d6e103:0xbd78398b864f760f",
-   "origName": "新素食堂"
-  },
-  {
-   "name": "雪廬素食麵館",
-   "cat": "🥬 素食餐廳",
-   "region": "",
-   "notes": "",
-   "lists": [
-    "好吃的美食"
-   ],
-   "url": "https://www.google.com/maps/place/%E9%9B%AA%E5%BB%AC%E7%B4%A0%E9%A3%9F%E9%BA%B5%E9%A4%A8/data=!4m2!3m1!1s0x34691a0676478d8b:0xacf00db1b3544bd7",
-   "origName": "雪廬素食麵館"
-  },
-  {
    "name": "龍點心（港式點心）",
    "cat": "🍜 美食小吃",
    "region": "台南",
@@ -770,6 +770,18 @@
    ],
    "url": "https://www.google.com/maps/place/%E5%BE%A1%E5%8F%AF%E9%A6%99%E4%B8%AD%E5%9F%94%E9%A0%82%E5%85%AD%E5%BA%97/data=!4m2!3m1!1s0x346e950819565fcb:0xa564947cb0006713",
    "origName": "御可香中埔頂六店"
+  },
+  {
+   "name": "雲舞樓段家私房菜",
+   "cat": "🍜 美食小吃",
+   "region": "南投清境",
+   "notes": "清境",
+   "lists": [
+    "常去的地方",
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%9B%B2%E8%88%9E%E6%A8%93%E6%AE%B5%E5%AE%B6%E7%A7%81%E6%88%BF%E8%8F%9C/data=!4m2!3m1!1s0x3468c217302a31f1:0x636d07607879f2ac",
+   "origName": "雲舞樓段家私房菜"
   },
   {
    "name": "游芭絲鄒宴餐廳",
@@ -815,18 +827,6 @@
    ],
    "url": "https://www.google.com/maps/place/%E8%8B%97%E6%A0%97%E5%A4%A7%E6%B9%96%E7%A6%8F%E8%8F%9C%E5%9C%92%E5%AE%A2%E5%AE%B6%E8%8F%9C%E9%A4%90%E5%BB%B3/data=!4m2!3m1!1s0x34690177a46b4953:0xa8b39f3193c32f00",
    "origName": "苗栗大湖福菜園客家菜餐廳"
-  },
-  {
-   "name": "雲舞樓段家私房菜",
-   "cat": "🍜 美食小吃",
-   "region": "南投清境",
-   "notes": "清境",
-   "lists": [
-    "好吃的美食",
-    "常去的地方"
-   ],
-   "url": "https://www.google.com/maps/place/%E9%9B%B2%E8%88%9E%E6%A8%93%E6%AE%B5%E5%AE%B6%E7%A7%81%E6%88%BF%E8%8F%9C/data=!4m2!3m1!1s0x3468c217302a31f1:0x636d07607879f2ac",
-   "origName": "雲舞樓段家私房菜"
   },
   {
    "name": "榕樹下酸辣湯",
@@ -1472,6 +1472,17 @@
    "origName": "全賢"
   },
   {
+   "name": "伯陽堂國術館",
+   "cat": "💆 國術推拿・診所",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "常去的地方"
+   ],
+   "url": "https://www.google.com/maps/place/%E4%BC%AF%E9%99%BD%E5%A0%82%E5%9C%8B%E8%A1%93%E9%A4%A8/data=!4m2!3m1!1s0x346e22e449490ad3:0xc42269ceca90d838",
+   "origName": "伯陽堂國術館"
+  },
+  {
    "name": "黃金徳國術館",
    "cat": "💆 國術推拿・診所",
    "region": "",
@@ -1492,17 +1503,6 @@
    ],
    "url": "https://www.google.com/maps/place/%E5%BE%B7%E8%B1%90%E8%83%83%E8%85%B8%E8%82%9D%E8%86%BD%E5%B0%88%E7%A7%91%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x346e0366b97b8d0b:0x49d252735e6cf7c",
    "origName": "德豐胃腸肝膽專科診所"
-  },
-  {
-   "name": "伯陽堂國術館",
-   "cat": "💆 國術推拿・診所",
-   "region": "",
-   "notes": "",
-   "lists": [
-    "常去的地方"
-   ],
-   "url": "https://www.google.com/maps/place/%E4%BC%AF%E9%99%BD%E5%A0%82%E5%9C%8B%E8%A1%93%E9%A4%A8/data=!4m2!3m1!1s0x346e22e449490ad3:0xc42269ceca90d838",
-   "origName": "伯陽堂國術館"
   },
   {
    "name": "茂欽商店",
@@ -1527,17 +1527,6 @@
    "origName": "已放置圖釘"
   },
   {
-   "name": "朋友的家（座標點）",
-   "cat": "🏠 親友住家",
-   "region": "",
-   "notes": "",
-   "lists": [
-    "朋友的家"
-   ],
-   "url": "https://www.google.com/maps/search/23.5348333,120.3881667",
-   "origName": "23°32'05.4\"N 120°23'17.4\"E"
-  },
-  {
    "name": "栢雅地板",
    "cat": "🏠 親友住家",
    "region": "",
@@ -1550,15 +1539,15 @@
    "origName": "栢雅地板"
   },
   {
-   "name": "嘉義縣立嘉新國民中學",
-   "cat": "🛒 生活・公務",
-   "region": "嘉義",
+   "name": "朋友的家（座標點）",
+   "cat": "🏠 親友住家",
+   "region": "",
    "notes": "",
    "lists": [
-    "最愛的地點"
+    "朋友的家"
    ],
-   "url": "https://www.google.com/maps/place/%E5%98%89%E7%BE%A9%E7%B8%A3%E7%AB%8B%E5%98%89%E6%96%B0%E5%9C%8B%E6%B0%91%E4%B8%AD%E5%AD%B8/data=!4m2!3m1!1s0x346e9707fe0bf32f:0x760be6482681e3a",
-   "origName": "嘉義縣立嘉新國民中學"
+   "url": "https://www.google.com/maps/search/23.5348333,120.3881667",
+   "origName": "23°32'05.4\"N 120°23'17.4\"E"
   },
   {
    "name": "電器莊董大寮展覽館",
@@ -1582,6 +1571,17 @@
    ],
    "url": "https://www.google.com/maps/place/%E7%A4%BE%E5%9C%98%E6%B3%95%E4%BA%BA%E5%98%89%E7%BE%A9%E5%B8%82%E6%AE%98%E9%9A%9C%E8%80%85%E6%9C%8D%E5%8B%99%E5%8D%94%E6%9C%83/data=!4m2!3m1!1s0x346e944633c9bceb:0x369014da7e820345",
    "origName": "社團法人嘉義市殘障者服務協會"
+  },
+  {
+   "name": "嘉義縣立嘉新國民中學",
+   "cat": "🛒 生活・公務",
+   "region": "嘉義",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%98%89%E7%BE%A9%E7%B8%A3%E7%AB%8B%E5%98%89%E6%96%B0%E5%9C%8B%E6%B0%91%E4%B8%AD%E5%AD%B8/data=!4m2!3m1!1s0x346e9707fe0bf32f:0x760be6482681e3a",
+   "origName": "嘉義縣立嘉新國民中學"
   },
   {
    "name": "全聯福利中心Pxmart 嘉義中埔",
@@ -1637,160 +1637,6 @@
    ],
    "url": "http://maps.google.com/?q=Japan, 〒904-0115 Okinawa-ken, Nakagami-gun, Chatan-chō, Ihei, 230 はま寿司北谷伊平店&ftid=0x34e51306e36cece1:0xc15f792f0afae0ac",
    "origName": "はま寿司北谷伊平店"
-  },
-  {
-   "name": "ダイレクトパーク鎌倉大仏横",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本東京・關東",
-   "notes": "",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%E9%8E%8C%E5%80%89%E5%A4%A7%E4%BB%8F%E6%A8%AA/data=!4m2!3m1!1s0x601845f33b727723:0xc1f321d7a5657c1",
-   "origName": "ダイレクトパーク鎌倉大仏横"
-  },
-  {
-   "name": "大仏有料駐車場",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本東京・關東",
-   "notes": "",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/%E5%A4%A7%E4%BB%8F%E6%9C%89%E6%96%99%E9%A7%90%E8%BB%8A%E5%A0%B4/data=!4m2!3m1!1s0x601845f330901d4d:0xf900a223be48e86f",
-   "origName": "大仏有料駐車場"
-  },
-  {
-   "name": "Cosmo Oil",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本東京・關東",
-   "notes": "",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/Cosmo+Oil/data=!4m2!3m1!1s0x6018f2d569c07625:0xfd4621997b7cb784",
-   "origName": "Cosmo Oil"
-  },
-  {
-   "name": "O.S.Pharmacy",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本東京・關東",
-   "notes": "OS Drug藥妝店-西出口",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/O.S.Pharmacy/data=!4m2!3m1!1s0x60188cd6afde31ff:0xecfea5e0d565f6d4",
-   "origName": "O.S.Pharmacy"
-  },
-  {
-   "name": "OS Drug Shinjuku",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本東京・關東",
-   "notes": "OS Drug藥妝店",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/OS+Drug+Shinjuku/data=!4m2!3m1!1s0x60188cda40cebd33:0x755f9f7a8bd13886",
-   "origName": "OS Drug Shinjuku"
-  },
-  {
-   "name": "〒169-0073 Tokyo, Shinjuku City, Hyakuninchō, 2-chōme−24−24 光楽荘",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本東京・關東",
-   "notes": "新宿站附近民宿",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/%E3%80%92169-0073+Tokyo,+Shinjuku+City,+Hyakuninch%C5%8D,+2-ch%C5%8Dme%E2%88%9224%E2%88%9224+%E5%85%89%E6%A5%BD%E8%8D%98/data=!4m2!3m1!1s0x60188d2dff0f98df:0x5d019e435c55b592",
-   "origName": "〒169-0073 Tokyo, Shinjuku City, Hyakuninchō, 2-chōme−24−24 光楽荘"
-  },
-  {
-   "name": "Wagyu yakiniku Tokori shinjuku NOWA",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本東京・關東",
-   "notes": "新宿-和牛吃到飽",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/Wagyu+yakiniku+Tokori+shinjuku+NOWA/data=!4m2!3m1!1s0x60188cd09d4dff1f:0xc7c09293aaba2c1a",
-   "origName": "Wagyu yakiniku Tokori shinjuku NOWA"
-  },
-  {
-   "name": "MOMO PARADISE 新宿東口店",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本東京・關東",
-   "notes": "火鍋吃到飽",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/MOMO+PARADISE+%E6%96%B0%E5%AE%BF%E6%9D%B1%E5%8F%A3%E5%BA%97/data=!4m2!3m1!1s0x60188cda682741bd:0x53e89a66e1bbabe3",
-   "origName": "MOMO PARADISE 新宿東口店"
-  },
-  {
-   "name": "谷中銀座",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本東京・關東",
-   "notes": "日暮里車站-逛街",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/%E8%B0%B7%E4%B8%AD%E9%8A%80%E5%BA%A7/data=!4m2!3m1!1s0x60188dd19c058c3d:0xef3d1026c2974760",
-   "origName": "谷中銀座"
-  },
-  {
-   "name": "Robatasho",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本東京・關東",
-   "notes": "新宿車站-居酒屋",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/Robatasho/data=!4m2!3m1!1s0x60188cd65e57a637:0x8bd61f29d9d1bf85",
-   "origName": "Robatasho"
-  },
-  {
-   "name": "火之丸 -Hinomaru- 新宿歌舞伎町店",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本東京・關東",
-   "notes": "吃到飽餐廳",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/%E7%81%AB%E4%B9%8B%E4%B8%B8+-Hinomaru-+%E6%96%B0%E5%AE%BF%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA%E5%BA%97/data=!4m2!3m1!1s0x60188d99f52eb625:0xe197007c0cbddf40",
-   "origName": "火之丸 -Hinomaru- 新宿歌舞伎町店"
-  },
-  {
-   "name": "NIPPON Rent-A-Car Nishishinjuku",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本東京・關東",
-   "notes": "西新宿営業所-還車",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/NIPPON+Rent-A-Car+Nishishinjuku/data=!4m2!3m1!1s0x6018f2d5198ba915:0xde2fc6c6d1062bdd",
-   "origName": "NIPPON Rent-A-Car Nishishinjuku"
-  },
-  {
-   "name": "1-chōme-6-22 Kugenumakaigan",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本青森・東北",
-   "notes": "鎌倉-江之島",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/1-ch%C5%8Dme-6-22+Kugenumakaigan/data=!4m2!3m1!1s0x60184e599eef442d:0x8d70740700b882d9",
-   "origName": "1-chōme-6-22 Kugenumakaigan"
-  },
-  {
-   "name": "2779 Kawaguchi",
-   "cat": "🇯🇵 日本旅遊",
-   "region": "日本青森・東北",
-   "notes": "河口湖",
-   "lists": [
-    "5_8日本自駕之旅"
-   ],
-   "url": "https://www.google.com/maps/place/2779+Kawaguchi/data=!4m2!3m1!1s0x60195e46ef35a58f:0x40ed149fa54c4bc5",
-   "origName": "2779 Kawaguchi"
   },
   {
    "name": "北金ケ沢の大銀杏",
@@ -2033,6 +1879,160 @@
    ],
    "url": "https://www.google.com/maps/place/APA%E9%A3%AF%E5%BA%97+%E9%9D%92%E6%A3%AE%E7%AB%99%E6%9D%B1/data=!4m2!3m1!1s0x5f9b9f1e13da284f:0xc5f50c8652edfa2b",
    "origName": "APA飯店 青森站東"
+  },
+  {
+   "name": "ダイレクトパーク鎌倉大仏横",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%E9%8E%8C%E5%80%89%E5%A4%A7%E4%BB%8F%E6%A8%AA/data=!4m2!3m1!1s0x601845f33b727723:0xc1f321d7a5657c1",
+   "origName": "ダイレクトパーク鎌倉大仏横"
+  },
+  {
+   "name": "大仏有料駐車場",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A4%A7%E4%BB%8F%E6%9C%89%E6%96%99%E9%A7%90%E8%BB%8A%E5%A0%B4/data=!4m2!3m1!1s0x601845f330901d4d:0xf900a223be48e86f",
+   "origName": "大仏有料駐車場"
+  },
+  {
+   "name": "Cosmo Oil",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/Cosmo+Oil/data=!4m2!3m1!1s0x6018f2d569c07625:0xfd4621997b7cb784",
+   "origName": "Cosmo Oil"
+  },
+  {
+   "name": "O.S.Pharmacy",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "OS Drug藥妝店-西出口",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/O.S.Pharmacy/data=!4m2!3m1!1s0x60188cd6afde31ff:0xecfea5e0d565f6d4",
+   "origName": "O.S.Pharmacy"
+  },
+  {
+   "name": "OS Drug Shinjuku",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "OS Drug藥妝店",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/OS+Drug+Shinjuku/data=!4m2!3m1!1s0x60188cda40cebd33:0x755f9f7a8bd13886",
+   "origName": "OS Drug Shinjuku"
+  },
+  {
+   "name": "〒169-0073 Tokyo, Shinjuku City, Hyakuninchō, 2-chōme−24−24 光楽荘",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "新宿站附近民宿",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/%E3%80%92169-0073+Tokyo,+Shinjuku+City,+Hyakuninch%C5%8D,+2-ch%C5%8Dme%E2%88%9224%E2%88%9224+%E5%85%89%E6%A5%BD%E8%8D%98/data=!4m2!3m1!1s0x60188d2dff0f98df:0x5d019e435c55b592",
+   "origName": "〒169-0073 Tokyo, Shinjuku City, Hyakuninchō, 2-chōme−24−24 光楽荘"
+  },
+  {
+   "name": "Wagyu yakiniku Tokori shinjuku NOWA",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "新宿-和牛吃到飽",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/Wagyu+yakiniku+Tokori+shinjuku+NOWA/data=!4m2!3m1!1s0x60188cd09d4dff1f:0xc7c09293aaba2c1a",
+   "origName": "Wagyu yakiniku Tokori shinjuku NOWA"
+  },
+  {
+   "name": "MOMO PARADISE 新宿東口店",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "火鍋吃到飽",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/MOMO+PARADISE+%E6%96%B0%E5%AE%BF%E6%9D%B1%E5%8F%A3%E5%BA%97/data=!4m2!3m1!1s0x60188cda682741bd:0x53e89a66e1bbabe3",
+   "origName": "MOMO PARADISE 新宿東口店"
+  },
+  {
+   "name": "谷中銀座",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "日暮里車站-逛街",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%B0%B7%E4%B8%AD%E9%8A%80%E5%BA%A7/data=!4m2!3m1!1s0x60188dd19c058c3d:0xef3d1026c2974760",
+   "origName": "谷中銀座"
+  },
+  {
+   "name": "Robatasho",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "新宿車站-居酒屋",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/Robatasho/data=!4m2!3m1!1s0x60188cd65e57a637:0x8bd61f29d9d1bf85",
+   "origName": "Robatasho"
+  },
+  {
+   "name": "火之丸 -Hinomaru- 新宿歌舞伎町店",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "吃到飽餐廳",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%81%AB%E4%B9%8B%E4%B8%B8+-Hinomaru-+%E6%96%B0%E5%AE%BF%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA%E5%BA%97/data=!4m2!3m1!1s0x60188d99f52eb625:0xe197007c0cbddf40",
+   "origName": "火之丸 -Hinomaru- 新宿歌舞伎町店"
+  },
+  {
+   "name": "NIPPON Rent-A-Car Nishishinjuku",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "西新宿営業所-還車",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/NIPPON+Rent-A-Car+Nishishinjuku/data=!4m2!3m1!1s0x6018f2d5198ba915:0xde2fc6c6d1062bdd",
+   "origName": "NIPPON Rent-A-Car Nishishinjuku"
+  },
+  {
+   "name": "1-chōme-6-22 Kugenumakaigan",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "鎌倉-江之島",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/1-ch%C5%8Dme-6-22+Kugenumakaigan/data=!4m2!3m1!1s0x60184e599eef442d:0x8d70740700b882d9",
+   "origName": "1-chōme-6-22 Kugenumakaigan"
+  },
+  {
+   "name": "2779 Kawaguchi",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "河口湖",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/2779+Kawaguchi/data=!4m2!3m1!1s0x60195e46ef35a58f:0x40ed149fa54c4bc5",
+   "origName": "2779 Kawaguchi"
   }
  ]
 }
