@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-Hant"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="apple-mobile-web-app-title" content="口袋名單">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="apple-touch-icon" href="icon.png">
+<link rel="icon" href="icon.png">
+<title>我的地圖口袋名單</title>
+<style>
+:root{--bg:#faf7f2;--card:#fff;--ink:#2b2622;--mute:#7a716a;--line:#e8e1d8;--accent:#b5452f;--chip:#f1ebe3}
+@media (prefers-color-scheme:dark){:root{--bg:#1c1a18;--card:#262320;--ink:#efe9e2;--mute:#a59c93;--line:#3a3530;--accent:#e2836c;--chip:#302c28}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,"PingFang TC","Noto Sans TC",sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--bg);padding:14px 14px 8px;border-bottom:1px solid var(--line)}
+h1{font-size:20px;margin:0 0 8px}h1 small{font-size:13px;color:var(--mute);font-weight:400;margin-left:6px}
+.row{display:flex;gap:8px}
+input,select{font:inherit;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink)}
+input{flex:1;min-width:0}select{max-width:40%}
+.chips{display:flex;gap:6px;overflow-x:auto;padding:10px 0 4px;scrollbar-width:none}.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:999px;padding:6px 12px;font-size:14px;cursor:pointer;white-space:nowrap}
+.chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+main{padding:10px 14px 40px;max-width:760px;margin:0 auto}
+.count{color:var(--mute);font-size:13px;margin:4px 2px 10px}
+.card{display:flex;align-items:center;gap:10px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:8px}
+.info{flex:1;min-width:0}.nm{font-weight:600;word-break:break-word}
+.meta{font-size:13px;color:var(--mute);margin-top:2px}
+.tag{display:inline-block;background:var(--chip);border-radius:6px;padding:0 6px;margin-right:6px;font-size:12px;color:var(--ink)}
+.note{color:var(--accent)}
+a.go{flex:none;text-decoration:none;background:var(--accent);color:#fff;border-radius:10px;padding:8px 12px;font-size:14px;font-weight:600}
+details{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 14px;margin:6px 0 14px}
+summary{cursor:pointer;font-weight:600}details li{margin:6px 0;font-size:14px}
+.empty{text-align:center;color:var(--mute);padding:40px 0}
+</style></head><body>
+<header>
+<h1>📍 我的地圖口袋名單<small>共 <span id="tot"></span> 個地點・更新 <span id="upd"></span></small></h1>
+<div class="row"><input id="q" type="search" placeholder="搜尋店名、地區、備註"><select id="reg"></select></div>
+<div class="chips" id="chips"></div>
+</header>
+<main>
+
+<div class="count" id="cnt"></div>
+<div id="list"></div>
+</main>
+<script>
+fetch('places.json?v='+Date.now()).then(r=>r.json()).then(J=>{const UPDATED=J.updated;const D=J.places;
+const cats=[...new Set(D.map(x=>x.cat))];
+const city=r=>!r?'未標地區':r.startsWith('日本')?'日本':r.slice(0,2);
+const regs=['全部地區',...[...new Set(D.map(x=>city(x.region)))].sort((a,b)=>(a==='未標地區')-(b==='未標地區')||D.filter(x=>city(x.region)===b).length-D.filter(x=>city(x.region)===a).length)];
+let cur='全部';
+const $=id=>document.getElementById(id);
+$('tot').textContent=D.length;$('upd').textContent=UPDATED;
+$('reg').innerHTML=regs.map(r=>`<option>${r}</option>`).join('');
+function chips(){$('chips').innerHTML=['全部',...cats].map(c=>{const n=c==='全部'?D.length:D.filter(x=>x.cat===c).length;return `<button class="chip${c===cur?' on':''}" data-c="${c}">${c} ${n}</button>`}).join('')}
+const esc=s=>s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+function render(){
+ const q=$('q').value.trim().toLowerCase(),rg=$('reg').value;
+ const r=D.filter(x=>(cur==='全部'||x.cat===cur)&&(rg==='全部地區'||city(x.region)===rg)&&(!q||(x.name+x.region+x.notes+x.cat+x.lists.join()).toLowerCase().includes(q)));
+ $('cnt').textContent=`顯示 ${r.length} 個地點`;
+ $('list').innerHTML=r.length?r.map(x=>`<div class="card"><div class="info"><div class="nm">${x.isNew?'🆕 ':''}${esc(x.name)}</div><div class="meta">${cur==='全部'?`<span class="tag">${x.cat}</span>`:''}${x.region?`<span class="tag">📌 ${esc(x.region)}</span>`:''}${x.notes?`<span class="note">${esc(x.notes)}</span>`:''}</div><div class="meta">原清單：${esc(x.lists.join('、'))}</div></div><a class="go" href="${esc(x.url)}" target="_blank" rel="noopener">地圖</a></div>`).join(''):'<div class="empty">找不到符合的地點</div>';
+ try{localStorage.setItem('mapf',JSON.stringify({cur,rg}))}catch(e){}
+}
+$('chips').onclick=e=>{const b=e.target.closest('.chip');if(!b)return;cur=b.dataset.c;chips();render()};
+$('q').oninput=render;$('reg').onchange=render;
+try{const s=JSON.parse(localStorage.getItem('mapf')||'{}');if(s.cur&&(s.cur==='全部'||cats.includes(s.cur)))cur=s.cur;if(s.rg&&regs.includes(s.rg))$('reg').value=s.rg}catch(e){}
+chips();render();
+}).catch(()=>{document.getElementById('list').innerHTML='<div class="empty">資料載入失敗，請稍後再試</div>'});
+</script></body></html>

@@ -1,0 +1,2038 @@
+{
+ "updated": "2026-11-03",
+ "source": "Takeout 2026-11-02（手動上傳）",
+ "places": [
+  {
+   "name": "南濟壇",
+   "cat": "🙏 宮廟寺院",
+   "region": "高雄內門",
+   "notes": "",
+   "lists": [
+    "已加星號",
+    "好吃的美食"
+   ],
+   "url": "http://maps.google.com/?cid=4355259282433580042",
+   "origName": "南濟壇"
+  },
+  {
+   "name": "民雄番仔溝玄武宮",
+   "cat": "🙏 宮廟寺院",
+   "region": "嘉義民雄",
+   "notes": "",
+   "lists": [
+    "已加星號"
+   ],
+   "url": "http://maps.google.com/?cid=8513060903411244928",
+   "origName": "民雄番仔溝玄武宮"
+  },
+  {
+   "name": "土溝代天府",
+   "cat": "🙏 宮廟寺院",
+   "region": "嘉義",
+   "notes": "廖家弘的家附近",
+   "lists": [
+    "朋友的家",
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%9C%9F%E6%BA%9D%E4%BB%A3%E5%A4%A9%E5%BA%9C/data=!4m2!3m1!1s0x346e902a3bcdc471:0x365935b9f842f000",
+   "origName": "土溝代天府"
+  },
+  {
+   "name": "埤仔頭王靈宮",
+   "cat": "🙏 宮廟寺院",
+   "region": "嘉義",
+   "notes": "",
+   "lists": [
+    "最愛的地點",
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%9F%A4%E4%BB%94%E9%A0%AD%E7%8E%8B%E9%9D%88%E5%AE%AE/data=!4m2!3m1!1s0x346e95d2db01a4bf:0xd642f5f68de66fc3",
+   "origName": "埤仔頭王靈宮"
+  },
+  {
+   "name": "中庄仔順天府",
+   "cat": "🙏 宮廟寺院",
+   "region": "嘉義",
+   "notes": "古亭院化金土地",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E4%B8%AD%E5%BA%84%E4%BB%94%E9%A0%86%E5%A4%A9%E5%BA%9C/data=!4m2!3m1!1s0x346e9e7bf21a1531:0xe308d79f1359d95e",
+   "origName": "中庄仔順天府"
+  },
+  {
+   "name": "嘉義縣番路鄉古亭院",
+   "cat": "🙏 宮廟寺院",
+   "region": "嘉義番路",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%98%89%E7%BE%A9%E7%B8%A3%E7%95%AA%E8%B7%AF%E9%84%89%E5%8F%A4%E4%BA%AD%E9%99%A2/data=!4m2!3m1!1s0x346e956b0c956645:0xbb8a35eb4e9c4ad2",
+   "origName": "嘉義縣番路鄉古亭院"
+  },
+  {
+   "name": "黃興路銅板素食",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄三民",
+   "notes": "高雄三民區",
+   "lists": [
+    "溫泉清單",
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%BB%83%E8%88%88%E8%B7%AF%E9%8A%85%E6%9D%BF%E7%B4%A0%E9%A3%9F/data=!4m2!3m1!1s0x346e04d5d7c4993f:0xf6b4bb4a835710d5",
+   "origName": "黃興路銅板素食"
+  },
+  {
+   "name": "佳家早餐店",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄鳳山",
+   "notes": "鳳山素食早餐",
+   "lists": [
+    "溫泉清單",
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E4%BD%B3%E5%AE%B6%E6%97%A9%E9%A4%90%E5%BA%97/data=!4m2!3m1!1s0x346e1b3c63fd1779:0x410efd578337d57c",
+   "origName": "佳家早餐店"
+  },
+  {
+   "name": "禪廚蔬食餐廳",
+   "cat": "🥬 素食餐廳",
+   "region": "苗栗頭屋",
+   "notes": "苗栗頭屋",
+   "lists": [
+    "5_8日本自駕之旅",
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%A6%AA%E5%BB%9A%E8%94%AC%E9%A3%9F%E9%A4%90%E5%BB%B3+%7C+%E8%B6%85%E4%BA%BA%E6%B0%A3%7C+%E9%A0%AD%E5%B1%8B%E4%BA%A4%E6%B5%81%E9%81%93%E7%B4%A0%E9%A3%9F+%7C%E8%8B%97%E6%A0%97%E5%BF%85%E5%90%83+%7C/data=!4m2!3m1!1s0x3469ac0c045c7c4d:0x69697f20afa030ba",
+   "origName": "禪廚蔬食餐廳 | 超人氣| 頭屋交流道素食 |苗栗必吃 |"
+  },
+  {
+   "name": "花果蔬嚴選蔬食（無洗手間）",
+   "cat": "🥬 素食餐廳",
+   "region": "南投竹山",
+   "notes": "南投竹山",
+   "lists": [
+    "預設清單",
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%8A%B1%E6%9E%9C%E8%94%AC-%E5%9A%B4%E9%81%B8%E8%94%AC%E9%A3%9F%7C%E5%9C%A8%E5%9C%B0%E8%94%AC%E9%A3%9F%E9%A4%90%E5%BB%B3%EF%BC%88%E7%84%A1%E6%8F%90%E4%BE%9B%E6%B4%97%E6%89%8B%E9%96%93%EF%BC%89-%7C%E8%94%AC%E9%A3%9F%E7%94%A2%E5%93%81%7C/data=!4m2!3m1!1s0x346ecd4f60a35417:0xa917083435102e23",
+   "origName": "花果蔬-嚴選蔬食|在地蔬食餐廳（無提供洗手間）-|蔬食產品|"
+  },
+  {
+   "name": "歐姆蛋蛋",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄葷素",
+   "lists": [
+    "預設清單"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%AD%90%E5%A7%86%E8%9B%8B%E8%9B%8B/data=!4m2!3m1!1s0x346e0494f04d3a03:0x6de98fea1b170fed",
+   "origName": "歐姆蛋蛋"
+  },
+  {
+   "name": "慈心素食早點",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄鳳山",
+   "notes": "高雄鳳山",
+   "lists": [
+    "預設清單",
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%85%88%E5%BF%83%E7%B4%A0%E9%A3%9F%E6%97%A9%E9%BB%9E/data=!4m2!3m1!1s0x346e034e0cb0ac7b:0x6e21888877374881",
+   "origName": "慈心素食早點"
+  },
+  {
+   "name": "素食小攤",
+   "cat": "🥬 素食餐廳",
+   "region": "嘉義",
+   "notes": "嘉義市",
+   "lists": [
+    "預設清單",
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%B4%A0%E9%A3%9F%E5%B0%8F%E6%94%A4/data=!4m2!3m1!1s0x346e956b29790d8b:0xa058f3170c724a24",
+   "origName": "素食小攤"
+  },
+  {
+   "name": "國際耀谷素食餐飲",
+   "cat": "🥬 素食餐廳",
+   "region": "台中沙鹿",
+   "notes": "台中沙鹿",
+   "lists": [
+    "預設清單",
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%9C%8B%E9%9A%9B%E8%80%80%E8%B0%B7%E7%B4%A0%E9%A3%9F%E9%A4%90%E9%A3%B2/data=!4m2!3m1!1s0x346914fc9f85baa9:0x769e332de7acc570",
+   "origName": "國際耀谷素食餐飲"
+  },
+  {
+   "name": "羣芳蔬食",
+   "cat": "🥬 素食餐廳",
+   "region": "台中豐原",
+   "notes": "台中豐原",
+   "lists": [
+    "預設清單"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%BE%A3%E8%8A%B3%E8%94%AC%E9%A3%9F/data=!4m2!3m1!1s0x140f2e9721cbf123:0x52b7c3b058a37342",
+   "origName": "羣芳蔬食"
+  },
+  {
+   "name": "品香蔬食",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%93%81%E9%A6%99%E8%94%AC%E9%A3%9F/data=!4m2!3m1!1s0x346e05cc806fb4b7:0x1cefc2f9d858b861",
+   "origName": "品香蔬食"
+  },
+  {
+   "name": "獸囍蔬食",
+   "cat": "🥬 素食餐廳",
+   "region": "彰化員林",
+   "notes": "員林",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%8D%B8%E5%9B%8D%E8%94%AC%E9%A3%9F/data=!4m2!3m1!1s0x346937b4e46b89e3:0xb16d454c29d94851",
+   "origName": "獸囍蔬食"
+  },
+  {
+   "name": "毛蔬 亞洲蔬食",
+   "cat": "🥬 素食餐廳",
+   "region": "台南",
+   "notes": "台南市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%AF%9B%E8%94%AC+%E4%BA%9E%E6%B4%B2%E8%94%AC%E9%A3%9F/data=!4m2!3m1!1s0x346e7780b4405b51:0xca14689a5dbc5749",
+   "origName": "毛蔬 亞洲蔬食"
+  },
+  {
+   "name": "唐草園精緻麵食TANG TSAO YUAN",
+   "cat": "🥬 素食餐廳",
+   "region": "新竹",
+   "notes": "新竹市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%94%90%E8%8D%89%E5%9C%92%E7%B2%BE%E7%B7%BB%E9%BA%B5%E9%A3%9FTANG+TSAO+YUAN/data=!4m2!3m1!1s0x3468372b44cf5281:0x630e727b94b7429f",
+   "origName": "唐草園精緻麵食TANG TSAO YUAN"
+  },
+  {
+   "name": "香草綠食",
+   "cat": "🥬 素食餐廳",
+   "region": "桃園",
+   "notes": "桃園市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%A6%99%E8%8D%89%E7%B6%A0%E9%A3%9F/data=!4m2!3m1!1s0x34681f051b4b2307:0xb9d36ce15dccf57a",
+   "origName": "香草綠食"
+  },
+  {
+   "name": "菩園素食麵店",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%8F%A9%E5%9C%92%E7%B4%A0%E9%A3%9F%E9%BA%B5%E5%BA%97/data=!4m2!3m1!1s0x346e04b86766458d:0x3abfd1994c82ba14",
+   "origName": "菩園素食麵店"
+  },
+  {
+   "name": "每日蔬食咖啡",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄市西式",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%AF%8F%E6%97%A5%E8%94%AC%E9%A3%9F%E5%92%96%E5%95%A1/data=!4m2!3m1!1s0x346e03608d9f9ea7:0xc8f0c87748676ca9",
+   "origName": "每日蔬食咖啡"
+  },
+  {
+   "name": "普明素食現炒館",
+   "cat": "🥬 素食餐廳",
+   "region": "台中太平",
+   "notes": "台中市太平區",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%99%AE%E6%98%8E%E7%B4%A0%E9%A3%9F%E7%8F%BE%E7%82%92%E9%A4%A8/data=!4m2!3m1!1s0x34693d2a2a7463c1:0xab3e9e43b6f8bbf8",
+   "origName": "普明素食現炒館"
+  },
+  {
+   "name": "遇見蔬食館",
+   "cat": "🥬 素食餐廳",
+   "region": "屏東東港",
+   "notes": "屏東東港",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%81%87%E8%A6%8B%E8%94%AC%E9%A3%9F%E9%A4%A8/data=!4m2!3m1!1s0x3471e1161300d667:0xd01b762ea69763f8",
+   "origName": "遇見蔬食館"
+  },
+  {
+   "name": "若水茶軒",
+   "cat": "🥬 素食餐廳",
+   "region": "台中",
+   "notes": "台中市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%8B%A5%E6%B0%B4%E8%8C%B6%E8%BB%92/data=!4m2!3m1!1s0x346917d51b300081:0xec7a910a4f2beb6",
+   "origName": "若水茶軒"
+  },
+  {
+   "name": "自在素食館",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%87%AA%E5%9C%A8%E7%B4%A0%E9%A3%9F%E9%A4%A8/data=!4m2!3m1!1s0x346e053f88934e31:0xd52556fc24f575c2",
+   "origName": "自在素食館"
+  },
+  {
+   "name": "河原蔬食（日式）",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄日式",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%B2%B3%E5%8E%9F%E8%94%AC%E9%A3%9F%EF%BC%88%E6%97%A5%E5%BC%8F%E8%94%AC%E9%A3%9F%EF%BD%9C%E7%B4%A0%E9%A3%9F%E9%A4%90%E5%BB%B3%EF%BC%8C6%2F19%EF%BD%9E6%2F21%E7%AB%AF%E5%8D%88%E9%80%A3%E5%81%87+%E6%AD%A3%E5%B8%B8%E7%87%9F%E6%A5%AD%EF%BC%89/data=!4m2!3m1!1s0x346e050d572b20e7:0x33fadcdfc72e82a5",
+   "origName": "河原蔬食（日式蔬食｜素食餐廳，6/19～6/21端午連假 正常營業）"
+  },
+  {
+   "name": "品悅咖啡",
+   "cat": "🥬 素食餐廳",
+   "region": "苗栗竹南",
+   "notes": "苗栗縣竹南鎮",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%93%81%E6%82%85%E5%92%96%E5%95%A1/data=!4m2!3m1!1s0x3469b315fbeac49b:0x7fc9d9b252ce2bd2",
+   "origName": "品悅咖啡"
+  },
+  {
+   "name": "何老大手作蔬食",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E4%BD%95%E8%80%81%E5%A4%A7%E6%89%8B%E4%BD%9C%E8%94%AC%E9%A3%9F/data=!4m2!3m1!1s0x346e05843b376ac7:0x3ff5320d823a2555",
+   "origName": "何老大手作蔬食"
+  },
+  {
+   "name": "時蒔 vegan 蔬食 麵館",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%99%82%E8%92%94+vegan+%E8%94%AC%E9%A3%9F+%E9%BA%B5%E9%A4%A8/data=!4m2!3m1!1s0x346e05a9b43ae97f:0x9a414889b6947c99",
+   "origName": "時蒔 vegan 蔬食 麵館"
+  },
+  {
+   "name": "綠時代。素食 串燒",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄市串燒",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%B6%A0%E6%99%82%E4%BB%A3%E3%80%82%E7%B4%A0%E9%A3%9F+%E4%B8%B2%E7%87%92/data=!4m2!3m1!1s0x346e1b290d48e2d7:0xeb157ac0040920b8",
+   "origName": "綠時代。素食 串燒"
+  },
+  {
+   "name": "和合樂屋日式蔬食 河堤店",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%92%8C%E5%90%88%E6%A8%82%E5%B1%8B%E6%97%A5%E5%BC%8F%E8%94%AC%E9%A3%9F+%E6%B2%B3%E5%A0%A4%E5%BA%97/data=!4m2!3m1!1s0x346e0519e549e3b5:0xfa876a7fdf3a997d",
+   "origName": "和合樂屋日式蔬食 河堤店"
+  },
+  {
+   "name": "炸遍五甲（素食炸物）",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄素食鹽酥雞",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%82%B8%E9%81%8D%E4%BA%94%E7%94%B2%EF%BC%88%E7%82%B8%E9%87%91%E9%87%9D%E8%8F%87%E3%80%81%E7%82%B8%E6%9D%8F%E9%AE%91%E8%8F%87%E3%80%81%E7%82%B8%E7%A7%80%E7%8F%8D%E8%8F%87%E3%80%81%E7%B4%A0%E9%A3%9F%E9%B9%B9%E9%85%A5G%E3%80%81%E7%B4%A0%E9%A3%9F%E6%9D%B1%E5%B1%B1%E9%B4%A8%E9%A0%AD+%EF%BC%89/data=!4m2!3m1!1s0x346e03592372b095:0xbeeb82c1aa77e41f",
+   "origName": "炸遍五甲（炸金針菇、炸杏鮑菇、炸秀珍菇、素食鹹酥G、素食東山鴨頭 ）"
+  },
+  {
+   "name": "得來素蔬食早午餐-高雄瑞隆店",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄早午餐",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%BE%97%E4%BE%86%E7%B4%A0%E8%94%AC%E9%A3%9F%E6%97%A9%E5%8D%88%E9%A4%90-%E9%AB%98%E9%9B%84%E7%91%9E%E9%9A%86%E5%BA%97/data=!4m2!3m1!1s0x346e03fa84e3bfb7:0x76496d6bebfde766",
+   "origName": "得來素蔬食早午餐-高雄瑞隆店"
+  },
+  {
+   "name": "玖所 jiU SUO plant-based eatery",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄義式料理",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%8E%96%E6%89%80+jiU+SUO+plant-based+eatery/data=!4m2!3m1!1s0x346e0574863ca80d:0x7cd1cf3837aec7ed",
+   "origName": "玖所 jiU SUO plant-based eatery"
+  },
+  {
+   "name": "新泰城旗艦店-鳳山",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄鳳山",
+   "notes": "高雄葷素的泰式餐廳",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%96%B0%E6%B3%B0%E5%9F%8E%E6%97%97%E8%89%A6%E5%BA%97-%E9%B3%B3%E5%B1%B1/data=!4m2!3m1!1s0x346e1b2c4c286663:0xba73dd62ac8f6836",
+   "origName": "新泰城旗艦店-鳳山"
+  },
+  {
+   "name": "天喜素食自助餐館 (信義店)",
+   "cat": "🥬 素食餐廳",
+   "region": "屏東",
+   "notes": "屏東素食",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A4%A9%E5%96%9C%E7%B4%A0%E9%A3%9F%E8%87%AA%E5%8A%A9%E9%A4%90%E9%A4%A8+(%E4%BF%A1%E7%BE%A9%E5%BA%97)/data=!4m2!3m1!1s0x346e17bccb638ced:0xc2474e3e6ec615cf",
+   "origName": "天喜素食自助餐館 (信義店)"
+  },
+  {
+   "name": "沐蔬坊 素食鍋燒",
+   "cat": "🥬 素食餐廳",
+   "region": "台南",
+   "notes": "台南",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%B2%90%E8%94%AC%E5%9D%8A+%E7%B4%A0%E9%A3%9F%E9%8D%8B%E7%87%92/data=!4m2!3m1!1s0x346e77007ea31deb:0x1fdc4de77100ea10",
+   "origName": "沐蔬坊 素食鍋燒"
+  },
+  {
+   "name": "菜大蔬 菜菜補給站",
+   "cat": "🥬 素食餐廳",
+   "region": "台中北屯",
+   "notes": "台中北屯",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%8F%9C%E5%A4%A7%E8%94%AC+%E8%8F%9C%E8%8F%9C%E8%A3%9C%E7%B5%A6%E7%AB%99%2F+%E7%B4%A0%E9%A3%9F%E6%97%A9%E5%8D%88%E9%A4%90%2F+%E6%B5%B7%E8%8B%94%E5%BE%A1%E9%A3%AF%E7%B3%B0%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A%2F+%E7%86%B1%E5%A3%93%E5%90%90%E5%8F%B8%2F+%E9%8D%8B%E7%87%92.%E9%9B%9E%E7%B5%B2.%E5%86%AC%E7%B2%89.%E7%83%8F%E9%BE%8D%E9%BA%B5%2F+%E5%92%96%E5%93%A9%E9%A3%AF%2F%E6%B3%B0%E5%BC%8F.%E6%B2%99%E8%8C%B6.%E9%BA%BB%E8%BE%A3%2FVegetarian+%0AFood/data=!4m2!3m1!1s0x346917e0f37dfb77:0xc545833268a46490",
+   "origName": "菜大蔬 菜菜補給站/ 素食早午餐/ 海苔御飯糰おにぎり/ 熱壓吐司/ 鍋燒.雞絲.冬粉.烏龍麵/ 咖哩飯/泰式.沙茶.麻辣/Vegetarian \nFood"
+  },
+  {
+   "name": "TERRA de Verdant 豐土",
+   "cat": "🥬 素食餐廳",
+   "region": "台中",
+   "notes": "台中",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/TERRA+de+Verdant+%E8%B1%90%E5%9C%9F/data=!4m2!3m1!1s0x34693d0032afee29:0x821c733b1d3d18b7",
+   "origName": "TERRA de Verdant 豐土"
+  },
+  {
+   "name": "壹番素食餐廳（不含蛋及酒）",
+   "cat": "🥬 素食餐廳",
+   "region": "雲林斗六",
+   "notes": "雲林斗六",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A3%B9%E7%95%AA%E7%B4%A0%E9%A3%9F%E9%A4%90%E5%BB%B3(%E4%B8%8D%E5%90%AB%E8%9B%8B%E5%8F%8A%E9%85%92)%E9%9B%B2%E6%9E%97%E7%B4%A0%E9%A3%9F+%E6%96%97%E5%85%AD%E7%B4%A0%E9%A3%9F+%E6%96%97%E5%85%AD%E7%B4%A0%E9%A3%9F%E9%A4%90%E5%BB%B3+%E6%96%97%E5%85%AD%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%96%A6/data=!4m2!3m1!1s0x346ec83ca14c43ff:0xdc664a8729da9950",
+   "origName": "壹番素食餐廳(不含蛋及酒)雲林素食 斗六素食 斗六素食餐廳 斗六美食推薦"
+  },
+  {
+   "name": "有樹食．日式素食烏龍麵",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%9C%89%E6%A8%B9%E9%A3%9F%EF%BC%8E%E6%97%A5%E5%BC%8F%E7%B4%A0%E9%A3%9F%E7%83%8F%E9%BE%8D%E9%BA%B5/data=!4m2!3m1!1s0x346e05697c8baca3:0x7b8210bcbb050353",
+   "origName": "有樹食．日式素食烏龍麵"
+  },
+  {
+   "name": "御花園蔬食起緣溪頭店",
+   "cat": "🥬 素食餐廳",
+   "region": "南投溪頭",
+   "notes": "溪頭",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%BE%A1%E8%8A%B1%E5%9C%92%E8%94%AC%E9%A3%9F%E8%B5%B7%E7%B7%A3%E6%BA%AA%E9%A0%AD%E5%BA%97/data=!4m2!3m1!1s0x346ed3fa893a806f:0xd069c67c25a4c475",
+   "origName": "御花園蔬食起緣溪頭店"
+  },
+  {
+   "name": "Sidewalk人行道蔬食",
+   "cat": "🥬 素食餐廳",
+   "region": "桃園",
+   "notes": "桃園市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/Sidewalk%E4%BA%BA%E8%A1%8C%E9%81%93%E8%94%AC%E9%A3%9F/data=!4m2!3m1!1s0x34682394ddf81db5:0x3c14f5a807c9970e",
+   "origName": "Sidewalk人行道蔬食"
+  },
+  {
+   "name": "夏安居蔬食Vegetarian",
+   "cat": "🥬 素食餐廳",
+   "region": "台東",
+   "notes": "台東市素食",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A4%8F%E5%AE%89%E5%B1%85%E8%94%AC%E9%A3%9FVegetarian/data=!4m2!3m1!1s0x346fb900460bb203:0xb346972dc76e5f54",
+   "origName": "夏安居蔬食Vegetarian"
+  },
+  {
+   "name": "不葷主義茶餐廳",
+   "cat": "🥬 素食餐廳",
+   "region": "台中",
+   "notes": "台中市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E4%B8%8D%E8%91%B7%E4%B8%BB%E7%BE%A9%E8%8C%B6%E9%A4%90%E5%BB%B3/data=!4m2!3m1!1s0x34693d38f12f57e5:0xde6b1d18a339916e",
+   "origName": "不葷主義茶餐廳"
+  },
+  {
+   "name": "鴨川食堂蔬素食",
+   "cat": "🥬 素食餐廳",
+   "region": "台中",
+   "notes": "台中市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%B4%A8%E5%B7%9D%E9%A3%9F%E5%A0%82%E8%94%AC%E7%B4%A0%E9%A3%9F/data=!4m2!3m1!1s0x34693d0d4abe58a1:0x8d56e133c62a349",
+   "origName": "鴨川食堂蔬素食"
+  },
+  {
+   "name": "606嘉義縣中埔鄉中山路五段867號",
+   "cat": "🥬 素食餐廳",
+   "region": "嘉義中埔",
+   "notes": "",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/606%E5%98%89%E7%BE%A9%E7%B8%A3%E4%B8%AD%E5%9F%94%E9%84%89%E4%B8%AD%E5%B1%B1%E8%B7%AF%E4%BA%94%E6%AE%B5867%E8%99%9F/data=!4m2!3m1!1s0x346e946d7ab54ca5:0xf5538c6f8cdeeb64",
+   "origName": "606嘉義縣中埔鄉中山路五段867號"
+  },
+  {
+   "name": "柳川素食麵",
+   "cat": "🥬 素食餐廳",
+   "region": "台中",
+   "notes": "台中市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%9F%B3%E5%B7%9D%E7%B4%A0%E9%A3%9F%E9%BA%B5/data=!4m2!3m1!1s0x34693d6c6a179b65:0x25e1e64717a0f721",
+   "origName": "柳川素食麵"
+  },
+  {
+   "name": "16號廚房素食餐廳 虎尾店",
+   "cat": "🥬 素食餐廳",
+   "region": "雲林虎尾",
+   "notes": "虎尾鎮",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/16%E8%99%9F%E5%BB%9A%E6%88%BF%E7%B4%A0%E9%A3%9F%E9%A4%90%E5%BB%B3+%E8%99%8E%E5%B0%BE%E5%BA%97/data=!4m2!3m1!1s0x346eb10048fb2a67:0xdade251738c3167",
+   "origName": "16號廚房素食餐廳 虎尾店"
+  },
+  {
+   "name": "天心岩蔬食餐廳",
+   "cat": "🥬 素食餐廳",
+   "region": "台南",
+   "notes": "台南市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A4%A9%E5%BF%83%E5%B2%A9%E8%94%AC%E9%A3%9F%E9%A4%90%E5%BB%B3(%E5%81%A5%E5%BA%B7%E7%B4%A0%E9%A3%9F%E5%A5%97%E9%A4%90%2F%E8%81%9A%E9%A4%90%E5%AE%B4%E6%9C%83%2F%E7%B4%A0%E9%A3%9F%E5%A9%9A%E5%AE%B4%2F%E5%A4%96%E7%87%B4%2F%E5%A0%B4%E5%9C%B0%E7%A7%9F%E5%80%9F)/data=!4m2!3m1!1s0x346e7675f36352ed:0x6cd831f6bdcc798d",
+   "origName": "天心岩蔬食餐廳(健康素食套餐/聚餐宴會/素食婚宴/外燴/場地租借)"
+  },
+  {
+   "name": "熱浪小島-嘉義店民權店",
+   "cat": "🥬 素食餐廳",
+   "region": "嘉義",
+   "notes": "嘉義市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%86%B1%E6%B5%AA%E5%B0%8F%E5%B3%B6-%E5%98%89%E7%BE%A9%E5%BA%97%E6%B0%91%E6%AC%8A%E5%BA%97/data=!4m2!3m1!1s0x346e95006e980375:0x2a847d4531713001",
+   "origName": "熱浪小島-嘉義店民權店"
+  },
+  {
+   "name": "蓮荷蔬食創意料理",
+   "cat": "🥬 素食餐廳",
+   "region": "台中",
+   "notes": "台中市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%93%AE%E8%8D%B7%E8%94%AC%E9%A3%9F%E5%89%B5%E6%84%8F%E6%96%99%E7%90%86/data=!4m2!3m1!1s0x346918170e30dfad:0xfde364ad32af7fbb",
+   "origName": "蓮荷蔬食創意料理"
+  },
+  {
+   "name": "大蓮素食",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄好吃素食",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A4%A7%E8%93%AE%E7%B4%A0%E9%A3%9F/data=!4m2!3m1!1s0x346e04f61a994a23:0x52ed97ad28f42d7c",
+   "origName": "大蓮素食"
+  },
+  {
+   "name": "美蔬齋",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%BE%8E%E8%94%AC%E9%BD%8B%EF%BD%9CMEI+SHU+ZHAI%EF%BD%9C%E8%94%AC%E9%A3%9F%E6%96%99%E7%90%86%EF%BD%9CVEGAN%EF%BD%9C/data=!4m2!3m1!1s0x346e0584064c3875:0x6e87716a78026e9a",
+   "origName": "美蔬齋｜MEI SHU ZHAI｜蔬食料理｜VEGAN｜"
+  },
+  {
+   "name": "嚕春 素食粥品專賣店",
+   "cat": "🥬 素食餐廳",
+   "region": "高雄",
+   "notes": "高雄粥",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%9A%95%E6%98%A5+%E7%B4%A0%E9%A3%9F%E7%B2%A5%E5%93%81%E5%B0%88%E8%B3%A3%E5%BA%97/data=!4m2!3m1!1s0x346e049405e5be7d:0x2a6de997c65cc5b3",
+   "origName": "嚕春 素食粥品專賣店"
+  },
+  {
+   "name": "16號廚房素食餐廳 斗六店",
+   "cat": "🥬 素食餐廳",
+   "region": "雲林斗六",
+   "notes": "斗六門市",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/16%E8%99%9F%E5%BB%9A%E6%88%BF%E7%B4%A0%E9%A3%9F%E9%A4%90%E5%BB%B3+%E6%96%97%E5%85%AD%E5%BA%97/data=!4m2!3m1!1s0x346ec82490d724c5:0x9358fdc8c730c8cf",
+   "origName": "16號廚房素食餐廳 斗六店"
+  },
+  {
+   "name": "健康原素（新生店）",
+   "cat": "🥬 素食餐廳",
+   "region": "嘉義",
+   "notes": "嘉義",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%81%A5%E5%BA%B7%E5%8E%9F%E7%B4%A0%EF%BC%88%E6%96%B0%E7%94%9F%E5%BA%97%EF%BC%89/data=!4m2!3m1!1s0x346e95cd47017217:0xeda1006f0b0fa91d",
+   "origName": "健康原素（新生店）"
+  },
+  {
+   "name": "澄香居蔬食滷味",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%BE%84%E9%A6%99%E5%B1%85%E8%94%AC%E9%A3%9F%E6%BB%B7%E5%91%B3%EF%BC%88%E5%BA%97%E4%BC%91%E6%97%A5%E4%BB%A5fb%E7%B2%89%E7%B5%B2%E5%B0%88%E9%A0%81%E7%82%BA%E4%B8%BB%EF%BC%89/data=!4m2!3m1!1s0x346e97057dd31a83:0x7a471b755221a8d7",
+   "origName": "澄香居蔬食滷味（店休日以fb粉絲專頁為主）"
+  },
+  {
+   "name": "廣善素食",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%BB%A3%E5%96%84%E7%B4%A0%E9%A3%9F/data=!4m2!3m1!1s0x346e1cda2fd9ddcf:0x791161a549beaa30",
+   "origName": "廣善素食"
+  },
+  {
+   "name": "巴甜蔬食家廚",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%B7%B4%E7%94%9C%E8%94%AC%E9%A3%9F%E5%AE%B6%E5%BB%9A/data=!4m2!3m1!1s0x346e94321dacf44f:0x320c6aac04f6a469",
+   "origName": "巴甜蔬食家廚"
+  },
+  {
+   "name": "安巒山莊",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%AE%89%E5%B7%92%E5%B1%B1%E8%8E%8A/data=!4m2!3m1!1s0x346e222817d6f117:0xa7be6a64d6d75e16",
+   "origName": "安巒山莊"
+  },
+  {
+   "name": "家秝私廚",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%AE%B6%E7%A7%9D%E7%A7%81%E5%BB%9A/data=!4m2!3m1!1s0x346e049250f48a01:0xc1f75ebaa4007d57",
+   "origName": "家秝私廚"
+  },
+  {
+   "name": "竹居茶樓",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "素食",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%AB%B9%E5%B1%85%E8%8C%B6%E6%A8%93/data=!4m2!3m1!1s0x346e9454860b014f:0x4ceca898990a3cc6",
+   "origName": "竹居茶樓"
+  },
+  {
+   "name": "饍香養生素食",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%A5%8D%E9%A6%99%E9%A4%8A%E7%94%9F%E7%B4%A0%E9%A3%9F/data=!4m2!3m1!1s0x346821d6b6c1809b:0x374b187be79a175a",
+   "origName": "饍香養生素食"
+  },
+  {
+   "name": "新素食堂",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%96%B0%E7%B4%A0%E9%A3%9F%E5%A0%82/data=!4m2!3m1!1s0x34691a1ba7d6e103:0xbd78398b864f760f",
+   "origName": "新素食堂"
+  },
+  {
+   "name": "雪廬素食麵館",
+   "cat": "🥬 素食餐廳",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%9B%AA%E5%BB%AC%E7%B4%A0%E9%A3%9F%E9%BA%B5%E9%A4%A8/data=!4m2!3m1!1s0x34691a0676478d8b:0xacf00db1b3544bd7",
+   "origName": "雪廬素食麵館"
+  },
+  {
+   "name": "龍點心（港式點心）",
+   "cat": "🍜 美食小吃",
+   "region": "台南",
+   "notes": "台南美食餐廳",
+   "lists": [
+    "嘉義美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%BE%8D%E9%BB%9E%E5%BF%83%EF%BC%88%E6%B8%AF%E5%BC%8F%E9%BB%9E%E5%BF%83%EF%BC%89/data=!4m2!3m1!1s0x346e712b61215d43:0x62f6d2d8afdc2711",
+   "origName": "龍點心（港式點心）"
+  },
+  {
+   "name": "御可香中埔頂六店",
+   "cat": "🍜 美食小吃",
+   "region": "嘉義中埔",
+   "notes": "",
+   "lists": [
+    "嘉義美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%BE%A1%E5%8F%AF%E9%A6%99%E4%B8%AD%E5%9F%94%E9%A0%82%E5%85%AD%E5%BA%97/data=!4m2!3m1!1s0x346e950819565fcb:0xa564947cb0006713",
+   "origName": "御可香中埔頂六店"
+  },
+  {
+   "name": "游芭絲鄒宴餐廳",
+   "cat": "🍜 美食小吃",
+   "region": "嘉義阿里山",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%B8%B8%E8%8A%AD%E7%B5%B2%E9%84%92%E5%AE%B4%E9%A4%90%E5%BB%B3-YUPASU+Tsou+Restaurant-yupasu+eabobon%CA%89/data=!4m2!3m1!1s0x346ed0bb6b36965f:0x385e709171df4f3d",
+   "origName": "游芭絲鄒宴餐廳-YUPASU Tsou Restaurant-yupasu eabobonʉ"
+  },
+  {
+   "name": "台南一味品碗粿魚羹",
+   "cat": "🍜 美食小吃",
+   "region": "台南",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%8F%B0%E5%8D%97%E4%B8%80%E5%91%B3%E5%93%81%E7%A2%97%E7%B2%BF%E9%AD%9A%E7%BE%B9/data=!4m2!3m1!1s0x346e7666ae3aab3d:0x244e09eae45183f",
+   "origName": "台南一味品碗粿魚羹"
+  },
+  {
+   "name": "大巴六九景觀餐廳",
+   "cat": "🍜 美食小吃",
+   "region": "台東",
+   "notes": "台東美食",
+   "lists": [
+    "想去的地點",
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A4%A7%E5%B7%B4%E5%85%AD%E4%B9%9D%E6%99%AF%E8%A7%80%E9%A4%90%E5%BB%B3/data=!4m2!3m1!1s0x346fb0cbb0a0131f:0x392d21c2df641934",
+   "origName": "大巴六九景觀餐廳"
+  },
+  {
+   "name": "苗栗大湖福菜園客家菜餐廳",
+   "cat": "🍜 美食小吃",
+   "region": "苗栗大湖",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%8B%97%E6%A0%97%E5%A4%A7%E6%B9%96%E7%A6%8F%E8%8F%9C%E5%9C%92%E5%AE%A2%E5%AE%B6%E8%8F%9C%E9%A4%90%E5%BB%B3/data=!4m2!3m1!1s0x34690177a46b4953:0xa8b39f3193c32f00",
+   "origName": "苗栗大湖福菜園客家菜餐廳"
+  },
+  {
+   "name": "雲舞樓段家私房菜",
+   "cat": "🍜 美食小吃",
+   "region": "南投清境",
+   "notes": "清境",
+   "lists": [
+    "好吃的美食",
+    "常去的地方"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%9B%B2%E8%88%9E%E6%A8%93%E6%AE%B5%E5%AE%B6%E7%A7%81%E6%88%BF%E8%8F%9C/data=!4m2!3m1!1s0x3468c217302a31f1:0x636d07607879f2ac",
+   "origName": "雲舞樓段家私房菜"
+  },
+  {
+   "name": "榕樹下酸辣湯",
+   "cat": "🍜 美食小吃",
+   "region": "屏東",
+   "notes": "屏東水餃",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%A6%95%E6%A8%B9%E4%B8%8B%E9%85%B8%E8%BE%A3%E6%B9%AF/data=!4m2!3m1!1s0x3471dea25deead53:0xe75e3e90dd2aa11c",
+   "origName": "榕樹下酸辣湯"
+  },
+  {
+   "name": "綠野山莊花園餐廳（鹽焗雞）",
+   "cat": "🍜 美食小吃",
+   "region": "高雄大樹",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%B6%A0%E9%87%8E%E5%B1%B1%E8%8E%8A%E8%8A%B1%E5%9C%92%E9%A4%90%E5%BB%B3+-+%E7%BE%A9%E5%A4%A7%E5%9C%9F%E9%9B%9E%E5%9F%8E%E5%BF%85%E5%90%83+%E7%89%B9%E8%89%B2%E5%9C%A8%E5%9C%B0%E7%BE%8E%E9%A3%9F+%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90%E8%81%9A%E9%A4%90+%E4%BA%BA%E6%B0%A3%E9%B9%BD%E7%84%97%E9%9B%9E%E6%8E%A8%E8%96%A6/data=!4m2!3m1!1s0x346e104b318e3253:0x200db47732dae8c9",
+   "origName": "綠野山莊花園餐廳 - 義大土雞城必吃 特色在地美食 家庭親子聚餐 人氣鹽焗雞推薦"
+  },
+  {
+   "name": "奇山石窯（完全預約制）",
+   "cat": "🍜 美食小吃",
+   "region": "高雄旗山",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A5%87%E5%B1%B1%E7%9F%B3%E7%AA%AF(%E5%AE%8C%E5%85%A8%E9%A0%90%E7%B4%84%E5%88%B6)+%E9%AB%98%E9%9B%84%E6%99%AF%E8%A7%80%E9%A4%90%E5%BB%B3+%E9%AB%98%E9%9B%84%E7%AA%AF%E7%83%A4%E6%8A%AB%E8%96%A9+%E6%97%97%E5%B1%B1%E7%BE%8E%E9%A3%9F+%E6%97%97%E5%B1%B1%E9%A4%90%E5%BB%B3+%E6%97%97%E5%B1%B1%E6%99%AF%E8%A7%80%E9%A4%90%E5%BB%B3+%E6%97%97%E5%B1%B1%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%96%A6+%E9%99%84%E8%BF%91%E7%BE%8E%E9%A3%9F+%E9%AB%98%E9%9B%84%E7%AA%AF%E7%83%A4%E5%90%90%E5%8F%B8/data=!4m2!3m1!1s0x346e6a4896293157:0x11a4d8c866469ffc",
+   "origName": "奇山石窯(完全預約制) 高雄景觀餐廳 高雄窯烤披薩 旗山美食 旗山餐廳 旗山景觀餐廳 旗山美食推薦 附近美食 高雄窯烤吐司"
+  },
+  {
+   "name": "民雄鵝肉太郎老店",
+   "cat": "🍜 美食小吃",
+   "region": "嘉義民雄",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%B0%91%E9%9B%84%E9%B5%9D%E8%82%89%E5%A4%AA%E9%83%8E%E8%80%81%E5%BA%97/data=!4m2!3m1!1s0x346ebdde68143a7f:0x926f211f6b7bddf3",
+   "origName": "民雄鵝肉太郎老店"
+  },
+  {
+   "name": "台南柳營露水雞",
+   "cat": "🍜 美食小吃",
+   "region": "台南柳營",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%8F%B0%E5%8D%97%E6%9F%B3%E7%87%9F%E9%9C%B2%E6%B0%B4%E9%9B%9E/data=!4m2!3m1!1s0x346e88d3ffa93931:0x9658487882335852",
+   "origName": "台南柳營露水雞"
+  },
+  {
+   "name": "阿鴻萬巒豬腳",
+   "cat": "🍜 美食小吃",
+   "region": "屏東萬巒",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%98%BF%E9%B4%BB%E8%90%AC%E5%B7%92%E8%B1%AC%E8%85%B3/data=!4m2!3m1!1s0x346e1b4ed947a5d3:0x75564e51d0ab27c8",
+   "origName": "阿鴻萬巒豬腳"
+  },
+  {
+   "name": "新營鵝肉吃懷念",
+   "cat": "🍜 美食小吃",
+   "region": "台南新營",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%96%B0%E7%87%9F%E9%B5%9D%E8%82%89%E5%90%83%E6%87%B7%E5%BF%B5/data=!4m2!3m1!1s0x346e0488681afe2b:0x35f148c08f6e4b9b",
+   "origName": "新營鵝肉吃懷念"
+  },
+  {
+   "name": "麻豆土魠魚焿",
+   "cat": "🍜 美食小吃",
+   "region": "台南麻豆",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%BA%BB%E8%B1%86%E5%9C%9F%E9%AD%A0%E9%AD%9A%E7%84%BF/data=!4m2!3m1!1s0x346e7e7fd7e47803:0x1916dd6093095f01",
+   "origName": "麻豆土魠魚焿"
+  },
+  {
+   "name": "雲林100碗-三角窗黃金魚焿",
+   "cat": "🍜 美食小吃",
+   "region": "雲林",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%9B%B2%E6%9E%97100%E7%A2%97-%E4%B8%89%E8%A7%92%E7%AA%97%E9%BB%83%E9%87%91%E9%AD%9A%E7%84%BF/data=!4m2!3m1!1s0x346eb905a09cd341:0xbb0c4d4ff4079afb",
+   "origName": "雲林100碗-三角窗黃金魚焿"
+  },
+  {
+   "name": "華饌湯包麵食館（五福店）",
+   "cat": "🍜 美食小吃",
+   "region": "高雄",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%8F%AF%E9%A5%8C%E6%B9%AF%E5%8C%85%E9%BA%B5%E9%A3%9F%E9%A4%A8%EF%BC%88%E4%BA%94%E7%A6%8F%E5%BA%97%EF%BC%89/data=!4m2!3m1!1s0x346e0496c816455b:0x11af838b9a357d72",
+   "origName": "華饌湯包麵食館（五福店）"
+  },
+  {
+   "name": "東石海派烤鮮蚵",
+   "cat": "🍜 美食小吃",
+   "region": "嘉義東石",
+   "notes": "東石鮮蚵",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%9D%B1%E7%9F%B3%E6%B5%B7%E6%B4%BE%E7%83%A4%E9%AE%AE%E8%9A%B5-%E7%83%A4%E8%9A%B5200%E5%85%83%E5%90%83%E5%88%B0%E9%A3%BD-%E9%AE%AE%E8%9A%B5%E5%90%83%E5%88%B0%E9%A3%BD%7C%E6%8E%A8%E8%96%A6%E9%AE%AE%E8%9A%B5%7C%E5%BF%85%E5%90%83%E9%AE%AE%E8%9A%B5%7C%E4%BA%BA%E6%B0%A3%E9%AE%AE%E8%9A%B5%7C%E9%81%93%E5%9C%B0%E7%BE%8E%E9%A3%9F%7C%E5%9C%A8%E5%9C%B0%E6%8E%A8%E8%96%A6%E9%A4%90%E5%BB%B3%7C%E8%83%A1%E6%A4%92%E9%AD%9A%7C%E7%83%A4%E9%AD%9A%7C%E6%B5%B7%E9%AE%AE%E9%A4%90%E5%BB%B3/data=!4m2!3m1!1s0x346c275d13e530ed:0x9cf0a9b013107622",
+   "origName": "東石海派烤鮮蚵-烤蚵200元吃到飽-鮮蚵吃到飽|推薦鮮蚵|必吃鮮蚵|人氣鮮蚵|道地美食|在地推薦餐廳|胡椒魚|烤魚|海鮮餐廳"
+  },
+  {
+   "name": "禾匠粥品麵食小港店",
+   "cat": "🍜 美食小吃",
+   "region": "高雄小港",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%A6%BE%E5%8C%A0%E7%B2%A5%E5%93%81%E9%BA%B5%E9%A3%9F%E5%B0%8F%E6%B8%AF%E5%BA%97/data=!4m2!3m1!1s0x346e1cdc5d8f911b:0xae260042a1e2184b",
+   "origName": "禾匠粥品麵食小港店"
+  },
+  {
+   "name": "森三日式炸豬排",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "最愛的地點",
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%A3%AE%E4%B8%89%E6%97%A5%E5%BC%8F%E7%82%B8%E8%B1%AC%E6%8E%92/data=!4m2!3m1!1s0x346e052855e2480b:0xb057cd3a92e97105",
+   "origName": "森三日式炸豬排"
+  },
+  {
+   "name": "布農族餐廳",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "最愛的地點",
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%B8%83%E8%BE%B2%E6%97%8F%E9%A4%90%E5%BB%B3/data=!4m2!3m1!1s0x346e1ac304a939c7:0x2b476eb0f15dd1ce",
+   "origName": "布農族餐廳"
+  },
+  {
+   "name": "壹零捌號 燒烤 黑輪",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "燒烤",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A3%B9%E9%9B%B6%E6%8D%8C%E8%99%9F+%E7%87%92%E7%83%A4+%E9%BB%91%E8%BC%AA/data=!4m2!3m1!1s0x346e1b3d7ddf751d:0x3730ad3fa241ff5c",
+   "origName": "壹零捌號 燒烤 黑輪"
+  },
+  {
+   "name": "阿亮香雞排",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%98%BF%E4%BA%AE%E9%A6%99%E9%9B%9E%E6%8E%92/data=!4m2!3m1!1s0x346e1cc872ecea03:0x9c97b2bfc5a2adf0",
+   "origName": "阿亮香雞排"
+  },
+  {
+   "name": "里歐歐式早餐(桂平店)",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%87%8C%E6%AD%90%E6%AD%90%E5%BC%8F%E6%97%A9%E9%A4%90(%E6%A1%82%E5%B9%B3%E5%BA%97)/data=!4m2!3m1!1s0x346e1d6f708ebe9d:0x690a1608dcbf43bd",
+   "origName": "里歐歐式早餐(桂平店)"
+  },
+  {
+   "name": "三輪的店（好吃的香腸在三輪）",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E4%B8%89%E8%BC%AA%E7%9A%84%E5%BA%97%EF%BC%88%E5%A5%BD%E5%90%83%E7%9A%84%E9%A6%99%E8%85%B8%E5%9C%A8%E4%B8%89%E8%BC%AA%EF%BC%89/data=!4m2!3m1!1s0x346e1b2f893c4455:0x5f5ca69756efed11",
+   "origName": "三輪的店（好吃的香腸在三輪）"
+  },
+  {
+   "name": "小林雞肉飯",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%B0%8F%E6%9E%97%E9%9B%9E%E8%82%89%E9%A3%AF/data=!4m2!3m1!1s0x346e04951ca046ed:0xf37b3bfe9ef88164",
+   "origName": "小林雞肉飯"
+  },
+  {
+   "name": "魚皮湯肉燥飯 ( 現炒 )",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%AD%9A%E7%9A%AE%E6%B9%AF%E8%82%89%E7%87%A5%E9%A3%AF+(+%E7%8F%BE%E7%82%92+)/data=!4m2!3m1!1s0x346e76666a608879:0x8ea338fc175b9da5",
+   "origName": "魚皮湯肉燥飯 ( 現炒 )"
+  },
+  {
+   "name": "老洋房1931",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "有素食餐",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%80%81%E6%B4%8B%E6%88%BF1931/data=!4m2!3m1!1s0x346e942e16ced885:0x8d1b32918404edae",
+   "origName": "老洋房1931"
+  },
+  {
+   "name": "阿明豬心金華店",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%98%BF%E6%98%8E%E8%B1%AC%E5%BF%83%E9%87%91%E8%8F%AF%E5%BA%97/data=!4m2!3m1!1s0x346e778f4bb9f8e9:0x3c4bc8d0d45e5836",
+   "origName": "阿明豬心金華店"
+  },
+  {
+   "name": "吉鮮生魚片／拉麵／燒烤／居酒屋",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%90%89%E9%AE%AE%E7%94%9F%E9%AD%9A%E7%89%87%EF%BC%8F%E6%8B%89%E9%BA%B5%EF%BC%8F%E7%87%92%E7%83%A4%EF%BC%8F%E5%B1%85%E9%85%92%E5%B1%8B/data=!4m2!3m1!1s0x346e19d4de9cabc3:0xca22d18fe39285e8",
+   "origName": "吉鮮生魚片／拉麵／燒烤／居酒屋"
+  },
+  {
+   "name": "王家燻羊肉",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%8E%8B%E5%AE%B6%E7%87%BB%E7%BE%8A%E8%82%89/data=!4m2!3m1!1s0x346e6f9e9b0f610d:0xf99a2abc1ac8c494",
+   "origName": "王家燻羊肉"
+  },
+  {
+   "name": "雙華盛藥膳脆皮炸雞",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%9B%99%E8%8F%AF%E7%9B%9B%E8%97%A5%E8%86%B3%E8%84%86%E7%9A%AE%E7%82%B8%E9%9B%9E/data=!4m2!3m1!1s0x346e95001d2b6327:0x5cf4cb52914d67b7",
+   "origName": "雙華盛藥膳脆皮炸雞"
+  },
+  {
+   "name": "苏 - 牛肉湯__售完為止",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%8B%8F+-+%E7%89%9B%E8%82%89%E6%B9%AF__%E5%94%AE%E5%AE%8C%E7%82%BA%E6%AD%A2/data=!4m2!3m1!1s0x346e74227cb6f4d7:0x43342f9ccb2bfe23",
+   "origName": "苏 - 牛肉湯__售完為止"
+  },
+  {
+   "name": "古早味小吃店",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%8F%A4%E6%97%A9%E5%91%B3%E5%B0%8F%E5%90%83%E5%BA%97/data=!4m2!3m1!1s0x346e1cda7318c55b:0xcf155a8136554cbf",
+   "origName": "古早味小吃店"
+  },
+  {
+   "name": "段泰國蝦",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%AE%B5%E6%B3%B0%E5%9C%8B%E8%9D%A6/data=!4m2!3m1!1s0x346e1a52a370e4ab:0xc208b50cae67b",
+   "origName": "段泰國蝦"
+  },
+  {
+   "name": "瀧壽司",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%80%A7%E5%A3%BD%E5%8F%B8/data=!4m2!3m1!1s0x3471e17133e337cf:0x1008826a8a592bd8",
+   "origName": "瀧壽司"
+  },
+  {
+   "name": "秘町無煙炭火燒肉",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%A7%98%E7%94%BA%E7%84%A1%E7%85%99%E7%82%AD%E7%81%AB%E7%87%92%E8%82%89/data=!4m2!3m1!1s0x346e048c8b25afdd:0xb88e48452e4ea5c3",
+   "origName": "秘町無煙炭火燒肉"
+  },
+  {
+   "name": "遺忘的故鄉 月廬食堂",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%81%BA%E5%BF%98%E7%9A%84%E6%95%85%E9%84%89+%E6%9C%88%E5%BB%AC%E9%A3%9F%E5%A0%82+(%E5%BA%97%E4%BC%91%E8%AA%BF%E6%95%B4%E8%AB%8B%E5%8F%83%E9%96%B1+Google+Maps+%E6%9C%80%E6%96%B0%E5%8B%95%E6%85%8B)/data=!4m2!3m1!1s0x3468f058f8aa55a9:0x4b51e25173c8c76f",
+   "origName": "遺忘的故鄉 月廬食堂 (店休調整請參閱 Google Maps 最新動態)"
+  },
+  {
+   "name": "十三巷手作壽司",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%8D%81%E4%B8%89%E5%B7%B7%E6%89%8B%E4%BD%9C%E5%A3%BD%E5%8F%B8/data=!4m2!3m1!1s0x346e1b2b651e6721:0x59e8d3ff4065d8cf",
+   "origName": "十三巷手作壽司"
+  },
+  {
+   "name": "龍坐鐵板燒",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%BE%8D%E5%9D%90%E9%90%B5%E6%9D%BF%E7%87%92/data=!4m2!3m1!1s0x346ebddd3f2b83f3:0xa08c20da2747dc72",
+   "origName": "龍坐鐵板燒"
+  },
+  {
+   "name": "松雞湯 - 中正店",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%9D%BE%E9%9B%9E%E6%B9%AF+-+%E4%B8%AD%E6%AD%A3%E5%BA%97/data=!4m2!3m1!1s0x346e0500197afd3f:0xed7444a9c6141024",
+   "origName": "松雞湯 - 中正店"
+  },
+  {
+   "name": "萬教羊肉爐",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%90%AC%E6%95%99%E7%BE%8A%E8%82%89%E7%88%90/data=!4m2!3m1!1s0x346e1cb8e75b3b17:0x1850bc48f34805bd",
+   "origName": "萬教羊肉爐"
+  },
+  {
+   "name": "豪哥買炒飯",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%B1%AA%E5%93%A5%E8%B2%B7%E7%82%92%E9%A3%AF/data=!4m2!3m1!1s0x346e1d2a60863333:0xec6de18d4e66ba62",
+   "origName": "豪哥買炒飯"
+  },
+  {
+   "name": "福島喜多方",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%A6%8F%E5%B3%B6%E5%96%9C%E5%A4%9A%E6%96%B9/data=!4m2!3m1!1s0x346e1cda735667b1:0x4304834b25511a8",
+   "origName": "福島喜多方"
+  },
+  {
+   "name": "社皮飯湯",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%A4%BE%E7%9A%AE%E9%A3%AF%E6%B9%AF/data=!4m2!3m1!1s0x346e19135be56daf:0xc6c2524bdcd2e607",
+   "origName": "社皮飯湯"
+  },
+  {
+   "name": "鵬家常小館",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%B5%AC%E5%AE%B6%E5%B8%B8%E5%B0%8F%E9%A4%A8/data=!4m2!3m1!1s0x346e04951a5a06a3:0x2bec0e7623379407",
+   "origName": "鵬家常小館"
+  },
+  {
+   "name": "中興小吃",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E4%B8%AD%E8%88%88%E5%B0%8F%E5%90%83/data=!4m2!3m1!1s0x346910a9ffeff143:0x608139cec9f8cd19",
+   "origName": "中興小吃"
+  },
+  {
+   "name": "士林廣東粥",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A3%AB%E6%9E%97%E5%BB%A3%E6%9D%B1%E7%B2%A5/data=!4m2!3m1!1s0x346e1cd7318eb233:0x13e43152b6a77c92",
+   "origName": "士林廣東粥"
+  },
+  {
+   "name": "阿樂 第二代 香腸大腸黑輪",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%98%BF%E6%A8%82+%E7%AC%AC%E4%BA%8C%E4%BB%A3+%E9%A6%99%E8%85%B8%E5%A4%A7%E8%85%B8%E9%BB%91%E8%BC%AA/data=!4m2!3m1!1s0x346e70def19cdbf7:0x13975adb46dc7322",
+   "origName": "阿樂 第二代 香腸大腸黑輪"
+  },
+  {
+   "name": "明華海產食堂",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%98%8E%E8%8F%AF%E6%B5%B7%E7%94%A2%E9%A3%9F%E5%A0%82/data=!4m2!3m1!1s0x346e9dedfd4aa18b:0x5c8ce339566cc9d0",
+   "origName": "明華海產食堂"
+  },
+  {
+   "name": "幸福饗棧宴會館",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "豆腐乳",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%B9%B8%E7%A6%8F%E9%A5%97%E6%A3%A7%E5%AE%B4%E6%9C%83%E9%A4%A8/data=!4m2!3m1!1s0x34683f2a54343dd9:0x7848738b59f46096",
+   "origName": "幸福饗棧宴會館"
+  },
+  {
+   "name": "阿秋海產",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%98%BF%E7%A7%8B%E6%B5%B7%E7%94%A2/data=!4m2!3m1!1s0x346e828680d775d3:0xc93dddd359ddd30c",
+   "origName": "阿秋海產"
+  },
+  {
+   "name": "阿瑞鮮魚湯",
+   "cat": "🍜 美食小吃",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%98%BF%E7%91%9E%E9%AE%AE%E9%AD%9A%E6%B9%AF/data=!4m2!3m1!1s0x346e1dc47439a723:0x4479cd84f154e39e",
+   "origName": "阿瑞鮮魚湯"
+  },
+  {
+   "name": "玉梅芒果冰",
+   "cat": "☕ 咖啡甜點・伴手禮",
+   "region": "台南玉井",
+   "notes": "玉井芒果冰",
+   "lists": [
+    "嘉義美食",
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%8E%89%E6%A2%85%E8%8A%92%E6%9E%9C%E5%86%B0/data=!4m2!3m1!1s0x346e61137818072d:0x978d9fdb84b0ae90",
+   "origName": "玉梅芒果冰"
+  },
+  {
+   "name": "茶之魔手竹崎灣橋店",
+   "cat": "☕ 咖啡甜點・伴手禮",
+   "region": "嘉義竹崎",
+   "notes": "",
+   "lists": [
+    "最愛的地點",
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%8C%B6%E4%B9%8B%E9%AD%94%E6%89%8B%E7%AB%B9%E5%B4%8E%E7%81%A3%E6%A9%8B%E5%BA%97/data=!4m2!3m1!1s0x346e953e14f4d491:0x3873ccab4afeb97a",
+   "origName": "茶之魔手竹崎灣橋店"
+  },
+  {
+   "name": "台南葡吉麵包店",
+   "cat": "☕ 咖啡甜點・伴手禮",
+   "region": "台南",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%8F%B0%E5%8D%97%E8%91%A1%E5%90%89%E9%BA%B5%E5%8C%85%E5%BA%97/data=!4m2!3m1!1s0x346e76604a4f5175:0x3fea3168897669f",
+   "origName": "台南葡吉麵包店"
+  },
+  {
+   "name": "山裏 Plant Vibes Coffee",
+   "cat": "☕ 咖啡甜點・伴手禮",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%B1%B1%E8%A3%8F+Plant+Vibes+Coffee/data=!4m2!3m1!1s0x346e8d296dc76f85:0x2a5bf05ee4bea9ed",
+   "origName": "山裏 Plant Vibes Coffee"
+  },
+  {
+   "name": "玉美珍餅舖",
+   "cat": "☕ 咖啡甜點・伴手禮",
+   "region": "",
+   "notes": "大餅",
+   "lists": [
+    "最愛的地點",
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%8E%89%E7%BE%8E%E7%8F%8D%E9%A4%85%E8%88%96/data=!4m2!3m1!1s0x346e987daaaaaaab:0x358f9f037e3076ce",
+   "origName": "玉美珍餅舖"
+  },
+  {
+   "name": "偉昶食品股份有限公司",
+   "cat": "☕ 咖啡甜點・伴手禮",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%81%89%E6%98%B6%E9%A3%9F%E5%93%81%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/data=!4m2!3m1!1s0x346e1029b3f9e1d7:0xc73867429055ddad",
+   "origName": "偉昶食品股份有限公司"
+  },
+  {
+   "name": "御梅園",
+   "cat": "☕ 咖啡甜點・伴手禮",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%BE%A1%E6%A2%85%E5%9C%92/data=!4m2!3m1!1s0x346e95874cd3eee5:0x773ff0210705425e",
+   "origName": "御梅園"
+  },
+  {
+   "name": "金花食品",
+   "cat": "☕ 咖啡甜點・伴手禮",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%87%91%E8%8A%B1%E9%A3%9F%E5%93%81/data=!4m2!3m1!1s0x346e95c99a4be939:0x8a5019e09d8a6c04",
+   "origName": "金花食品"
+  },
+  {
+   "name": "紅葉谷綠能溫泉園區 Vakangan Hot Spring Park",
+   "cat": "♨️ 溫泉住宿",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "溫泉清單"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%B4%85%E8%91%89%E8%B0%B7%E7%B6%A0%E8%83%BD%E6%BA%AB%E6%B3%89%E5%9C%92%E5%8D%80+Vakangan+Hot+Spring+Park/data=!4m2!3m1!1s0x346faf11386e5d9b:0x8eef602fa3bd4557",
+   "origName": "紅葉谷綠能溫泉園區 Vakangan Hot Spring Park"
+  },
+  {
+   "name": "山月溫泉館",
+   "cat": "♨️ 溫泉住宿",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "溫泉清單"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%B1%B1%E6%9C%88%E6%BA%AB%E6%B3%89%E9%A4%A8/data=!4m2!3m1!1s0x346fa55deca4a405:0x595f01e8e50b42f7",
+   "origName": "山月溫泉館"
+  },
+  {
+   "name": "仁溢 (點穴理筋)",
+   "cat": "💆 國術推拿・診所",
+   "region": "南投竹山",
+   "notes": "竹山理筋",
+   "lists": [
+    "預設清單"
+   ],
+   "url": "https://www.google.com/maps/place/%E4%BB%81%E6%BA%A2+(%E9%BB%9E%E7%A9%B4%E7%90%86%E7%AD%8B)/data=!4m2!3m1!1s0x346ecd0068dd2641:0x94fbcee489558ef6",
+   "origName": "仁溢 (點穴理筋)"
+  },
+  {
+   "name": "全賢",
+   "cat": "💆 國術推拿・診所",
+   "region": "屏東潮州",
+   "notes": "潮州推拿",
+   "lists": [
+    "預設清單"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%85%A8%E8%B3%A2/data=!4m2!3m1!1s0x346e219b31485cb7:0x9cc3bf45311d82bf",
+   "origName": "全賢"
+  },
+  {
+   "name": "黃金徳國術館",
+   "cat": "💆 國術推拿・診所",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%BB%83%E9%87%91%E5%BE%B3%E5%9C%8B%E8%A1%93%E9%A4%A8/data=!4m2!3m1!1s0x346e18d379b67aab:0x419d43a15be422cd",
+   "origName": "黃金徳國術館"
+  },
+  {
+   "name": "德豐胃腸肝膽專科診所",
+   "cat": "💆 國術推拿・診所",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%BE%B7%E8%B1%90%E8%83%83%E8%85%B8%E8%82%9D%E8%86%BD%E5%B0%88%E7%A7%91%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x346e0366b97b8d0b:0x49d252735e6cf7c",
+   "origName": "德豐胃腸肝膽專科診所"
+  },
+  {
+   "name": "伯陽堂國術館",
+   "cat": "💆 國術推拿・診所",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "常去的地方"
+   ],
+   "url": "https://www.google.com/maps/place/%E4%BC%AF%E9%99%BD%E5%A0%82%E5%9C%8B%E8%A1%93%E9%A4%A8/data=!4m2!3m1!1s0x346e22e449490ad3:0xc42269ceca90d838",
+   "origName": "伯陽堂國術館"
+  },
+  {
+   "name": "茂欽商店",
+   "cat": "🏠 親友住家",
+   "region": "嘉義",
+   "notes": "玉梅師姐的家",
+   "lists": [
+    "朋友的家"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%8C%82%E6%AC%BD%E5%95%86%E5%BA%97/data=!4m2!3m1!1s0x346ebd5ed9bc88ed:0xda26e134966d5c52",
+   "origName": "茂欽商店"
+  },
+  {
+   "name": "玉梅師姐家（圖釘）",
+   "cat": "🏠 親友住家",
+   "region": "嘉義",
+   "notes": "玉梅師姐家",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/search/23.5287757,120.6569476",
+   "origName": "已放置圖釘"
+  },
+  {
+   "name": "朋友的家（座標點）",
+   "cat": "🏠 親友住家",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "朋友的家"
+   ],
+   "url": "https://www.google.com/maps/search/23.5348333,120.3881667",
+   "origName": "23°32'05.4\"N 120°23'17.4\"E"
+  },
+  {
+   "name": "栢雅地板",
+   "cat": "🏠 親友住家",
+   "region": "",
+   "notes": "蕭議長的家",
+   "lists": [
+    "嘉義美食",
+    "素食餐廳"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%A0%A2%E9%9B%85%E5%9C%B0%E6%9D%BF/data=!4m2!3m1!1s0x346e99e816e0b239:0xd94535699c738dc0",
+   "origName": "栢雅地板"
+  },
+  {
+   "name": "嘉義縣立嘉新國民中學",
+   "cat": "🛒 生活・公務",
+   "region": "嘉義",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%98%89%E7%BE%A9%E7%B8%A3%E7%AB%8B%E5%98%89%E6%96%B0%E5%9C%8B%E6%B0%91%E4%B8%AD%E5%AD%B8/data=!4m2!3m1!1s0x346e9707fe0bf32f:0x760be6482681e3a",
+   "origName": "嘉義縣立嘉新國民中學"
+  },
+  {
+   "name": "電器莊董大寮展覽館",
+   "cat": "🛒 生活・公務",
+   "region": "高雄大寮",
+   "notes": "",
+   "lists": [
+    "預設清單"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%9B%BB%E5%99%A8%E8%8E%8A%E8%91%A3%E5%A4%A7%E5%AF%AE%E5%B1%95%E8%A6%BD%E9%A4%A8/data=!4m2!3m1!1s0x346e1b004c230d57:0x24d110a8c8aeb1dc",
+   "origName": "電器莊董大寮展覽館"
+  },
+  {
+   "name": "社團法人嘉義市殘障者服務協會",
+   "cat": "🛒 生活・公務",
+   "region": "嘉義市",
+   "notes": "找佳吟",
+   "lists": [
+    "預設清單",
+    "好吃的美食"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%A4%BE%E5%9C%98%E6%B3%95%E4%BA%BA%E5%98%89%E7%BE%A9%E5%B8%82%E6%AE%98%E9%9A%9C%E8%80%85%E6%9C%8D%E5%8B%99%E5%8D%94%E6%9C%83/data=!4m2!3m1!1s0x346e944633c9bceb:0x369014da7e820345",
+   "origName": "社團法人嘉義市殘障者服務協會"
+  },
+  {
+   "name": "全聯福利中心Pxmart 嘉義中埔",
+   "cat": "🛒 生活・公務",
+   "region": "嘉義中埔",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%85%A8%E8%81%AF%E7%A6%8F%E5%88%A9%E4%B8%AD%E5%BF%83Pxmart+%E5%98%89%E7%BE%A9%E4%B8%AD%E5%9F%94/data=!4m2!3m1!1s0x346e93205e87382b:0x9845d1e50a5f5de6",
+   "origName": "全聯福利中心Pxmart 嘉義中埔"
+  },
+  {
+   "name": "先進園藝資材",
+   "cat": "🛒 生活・公務",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%85%88%E9%80%B2%E5%9C%92%E8%97%9D%E8%B3%87%E6%9D%90/data=!4m2!3m1!1s0x346e1903787b621d:0xf54d94e66063ba71",
+   "origName": "先進園藝資材"
+  },
+  {
+   "name": "交通部台灣區國道高速公路局南區工程處",
+   "cat": "🛒 生活・公務",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "最愛的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E4%BA%A4%E9%80%9A%E9%83%A8%E5%8F%B0%E7%81%A3%E5%8D%80%E5%9C%8B%E9%81%93%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E5%B1%80%E5%8D%97%E5%8D%80%E5%B7%A5%E7%A8%8B%E8%99%95/data=!4m2!3m1!1s0x346e7035f6120b63:0xe4808638bc9a967a",
+   "origName": "交通部台灣區國道高速公路局南區工程處"
+  },
+  {
+   "name": "想去的座標點（未命名）",
+   "cat": "🛒 生活・公務",
+   "region": "",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/search/23.1019161,120.7513148",
+   "origName": "23°06'06.9\"N 120°45'04.7\"E"
+  },
+  {
+   "name": "はま寿司 北谷伊平店",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本沖繩",
+   "notes": "",
+   "lists": [
+    "已加星號"
+   ],
+   "url": "http://maps.google.com/?q=Japan, 〒904-0115 Okinawa-ken, Nakagami-gun, Chatan-chō, Ihei, 230 はま寿司北谷伊平店&ftid=0x34e51306e36cece1:0xc15f792f0afae0ac",
+   "origName": "はま寿司北谷伊平店"
+  },
+  {
+   "name": "ダイレクトパーク鎌倉大仏横",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF%E9%8E%8C%E5%80%89%E5%A4%A7%E4%BB%8F%E6%A8%AA/data=!4m2!3m1!1s0x601845f33b727723:0xc1f321d7a5657c1",
+   "origName": "ダイレクトパーク鎌倉大仏横"
+  },
+  {
+   "name": "大仏有料駐車場",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A4%A7%E4%BB%8F%E6%9C%89%E6%96%99%E9%A7%90%E8%BB%8A%E5%A0%B4/data=!4m2!3m1!1s0x601845f330901d4d:0xf900a223be48e86f",
+   "origName": "大仏有料駐車場"
+  },
+  {
+   "name": "Cosmo Oil",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/Cosmo+Oil/data=!4m2!3m1!1s0x6018f2d569c07625:0xfd4621997b7cb784",
+   "origName": "Cosmo Oil"
+  },
+  {
+   "name": "O.S.Pharmacy",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "OS Drug藥妝店-西出口",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/O.S.Pharmacy/data=!4m2!3m1!1s0x60188cd6afde31ff:0xecfea5e0d565f6d4",
+   "origName": "O.S.Pharmacy"
+  },
+  {
+   "name": "OS Drug Shinjuku",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "OS Drug藥妝店",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/OS+Drug+Shinjuku/data=!4m2!3m1!1s0x60188cda40cebd33:0x755f9f7a8bd13886",
+   "origName": "OS Drug Shinjuku"
+  },
+  {
+   "name": "〒169-0073 Tokyo, Shinjuku City, Hyakuninchō, 2-chōme−24−24 光楽荘",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "新宿站附近民宿",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/%E3%80%92169-0073+Tokyo,+Shinjuku+City,+Hyakuninch%C5%8D,+2-ch%C5%8Dme%E2%88%9224%E2%88%9224+%E5%85%89%E6%A5%BD%E8%8D%98/data=!4m2!3m1!1s0x60188d2dff0f98df:0x5d019e435c55b592",
+   "origName": "〒169-0073 Tokyo, Shinjuku City, Hyakuninchō, 2-chōme−24−24 光楽荘"
+  },
+  {
+   "name": "Wagyu yakiniku Tokori shinjuku NOWA",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "新宿-和牛吃到飽",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/Wagyu+yakiniku+Tokori+shinjuku+NOWA/data=!4m2!3m1!1s0x60188cd09d4dff1f:0xc7c09293aaba2c1a",
+   "origName": "Wagyu yakiniku Tokori shinjuku NOWA"
+  },
+  {
+   "name": "MOMO PARADISE 新宿東口店",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "火鍋吃到飽",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/MOMO+PARADISE+%E6%96%B0%E5%AE%BF%E6%9D%B1%E5%8F%A3%E5%BA%97/data=!4m2!3m1!1s0x60188cda682741bd:0x53e89a66e1bbabe3",
+   "origName": "MOMO PARADISE 新宿東口店"
+  },
+  {
+   "name": "谷中銀座",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "日暮里車站-逛街",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%B0%B7%E4%B8%AD%E9%8A%80%E5%BA%A7/data=!4m2!3m1!1s0x60188dd19c058c3d:0xef3d1026c2974760",
+   "origName": "谷中銀座"
+  },
+  {
+   "name": "Robatasho",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "新宿車站-居酒屋",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/Robatasho/data=!4m2!3m1!1s0x60188cd65e57a637:0x8bd61f29d9d1bf85",
+   "origName": "Robatasho"
+  },
+  {
+   "name": "火之丸 -Hinomaru- 新宿歌舞伎町店",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "吃到飽餐廳",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/%E7%81%AB%E4%B9%8B%E4%B8%B8+-Hinomaru-+%E6%96%B0%E5%AE%BF%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA%E5%BA%97/data=!4m2!3m1!1s0x60188d99f52eb625:0xe197007c0cbddf40",
+   "origName": "火之丸 -Hinomaru- 新宿歌舞伎町店"
+  },
+  {
+   "name": "NIPPON Rent-A-Car Nishishinjuku",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "西新宿営業所-還車",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/NIPPON+Rent-A-Car+Nishishinjuku/data=!4m2!3m1!1s0x6018f2d5198ba915:0xde2fc6c6d1062bdd",
+   "origName": "NIPPON Rent-A-Car Nishishinjuku"
+  },
+  {
+   "name": "1-chōme-6-22 Kugenumakaigan",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "鎌倉-江之島",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/1-ch%C5%8Dme-6-22+Kugenumakaigan/data=!4m2!3m1!1s0x60184e599eef442d:0x8d70740700b882d9",
+   "origName": "1-chōme-6-22 Kugenumakaigan"
+  },
+  {
+   "name": "2779 Kawaguchi",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "河口湖",
+   "lists": [
+    "5_8日本自駕之旅"
+   ],
+   "url": "https://www.google.com/maps/place/2779+Kawaguchi/data=!4m2!3m1!1s0x60195e46ef35a58f:0x40ed149fa54c4bc5",
+   "origName": "2779 Kawaguchi"
+  },
+  {
+   "name": "北金ケ沢の大銀杏",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%8C%97%E9%87%91%E3%82%B1%E6%B2%A2%E3%81%AE%E5%A4%A7%E9%8A%80%E6%9D%8F/data=!4m2!3m1!1s0x5f9a4b8b1dc8f6b9:0x5fc8878dd315991f",
+   "origName": "北金ケ沢の大銀杏"
+  },
+  {
+   "name": "奧入瀨溪流館",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A5%A7%E5%85%A5%E7%80%A8%E6%BA%AA%E6%B5%81%E9%A4%A8/data=!4m2!3m1!1s0x5f9b15be234393fd:0xea1bb8208185526d",
+   "origName": "奧入瀨溪流館"
+  },
+  {
+   "name": "城ヶ倉大橋駐車場 黒石側",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%9F%8E%E3%83%B6%E5%80%89%E5%A4%A7%E6%A9%8B%E9%A7%90%E8%BB%8A%E5%A0%B4+%E9%BB%92%E7%9F%B3%E5%81%B4/data=!4m2!3m1!1s0x5f9b120746979c59:0x99c683c61cf4e788",
+   "origName": "城ヶ倉大橋駐車場 黒石側"
+  },
+  {
+   "name": "青龍寺",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E9%9D%92%E9%BE%8D%E5%AF%BA/data=!4m2!3m1!1s0x5f9b9e0b0a2476d9:0xf58168bf06b400c9",
+   "origName": "青龍寺"
+  },
+  {
+   "name": "Nakano Shrine",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/Nakano+Shrine/data=!4m2!3m1!1s0x5f9b053de430d4df:0xc09f21bc51311696",
+   "origName": "Nakano Shrine"
+  },
+  {
+   "name": "Hakka touge observatory",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/Hakka+touge+observatory/data=!4m2!3m1!1s0x5f9b26e854e94495:0xd24ccae99d1cadc5",
+   "origName": "Hakka touge observatory"
+  },
+  {
+   "name": "子之口",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%AD%90%E4%B9%8B%E5%8F%A3/data=!4m2!3m1!1s0x5f9b234a470c8c99:0x27f8807a5986dc06",
+   "origName": "子之口"
+  },
+  {
+   "name": "奧入瀨溪流",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%A5%A7%E5%85%A5%E7%80%A8%E6%BA%AA%E6%B5%81/data=!4m2!3m1!1s0x5f9b241b09b32a6d:0xaf986a64485631d8",
+   "origName": "奧入瀨溪流"
+  },
+  {
+   "name": "蔦沼",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E8%94%A6%E6%B2%BC/data=!4m2!3m1!1s0x5f9b145cd9a8d609:0xafef8a74c6779073",
+   "origName": "蔦沼"
+  },
+  {
+   "name": "Jogakuraohashi Parking Lot",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/Jogakuraohashi+Parking+Lot/data=!4m2!3m1!1s0x5f9b0d6496dae9b9:0xb9d43f4529d35e60",
+   "origName": "Jogakuraohashi Parking Lot"
+  },
+  {
+   "name": "千疊敷（青森）",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E5%8D%83%E7%96%8A%E6%95%B7%EF%BC%88%E9%9D%92%E6%A3%AE%EF%BC%89/data=!4m2!3m1!1s0x5f9a4bb57e0da57f:0xd8ba8d6f8bd0564c",
+   "origName": "千疊敷（青森）"
+  },
+  {
+   "name": "Fukaura Town Echo Museum Center Hakobo-kan",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/Fukaura+Town+Echo+Museum+Center+Hakobo-kan/data=!4m2!3m1!1s0x5f9a5d9bd98f1af1:0xd33ba495dc56bca6",
+   "origName": "Fukaura Town Echo Museum Center Hakobo-kan"
+  },
+  {
+   "name": "Hirosakijo Park Parking Lot",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/Hirosakijo+Park+Parking+Lot/data=!4m2!3m1!1s0x5f9b01b888f35931:0x811bd0c3a05306f1",
+   "origName": "Hirosakijo Park Parking Lot"
+  },
+  {
+   "name": "Hirosaki Apple Park Ringo-no-Ie",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/Hirosaki+Apple+Park+Ringo-no-Ie/data=!4m2!3m1!1s0x5f9affce517b27bf:0x814cb209d0e9d3a4",
+   "origName": "Hirosaki Apple Park Ringo-no-Ie"
+  },
+  {
+   "name": "津輕藩睡魔村",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%B4%A5%E8%BC%95%E8%97%A9%E7%9D%A1%E9%AD%94%E6%9D%91/data=!4m2!3m1!1s0x5f9b01b88b0ae78f:0x52838dcdcc900af7",
+   "origName": "津輕藩睡魔村"
+  },
+  {
+   "name": "Osamu Dazai Memorial Hall (Shayokan)",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/Osamu+Dazai+Memorial+Hall+(Shayokan)/data=!4m2!3m1!1s0x5f9bbe85b5998fe1:0xf5990ddfefd350bf",
+   "origName": "Osamu Dazai Memorial Hall (Shayokan)"
+  },
+  {
+   "name": "Orix Rent-a-car",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/Orix+Rent-a-car/data=!4m2!3m1!1s0x5f9b9f4eaead32ad:0x99f62a1fdae47be",
+   "origName": "Orix Rent-a-car"
+  },
+  {
+   "name": "Richmond Hotel Yokohama Ekimae",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本東京・關東",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/Richmond+Hotel+Yokohama+Ekimae/data=!4m2!3m1!1s0x60185c117474bd5d:0x19e958bc2fdc126d",
+   "origName": "Richmond Hotel Yokohama Ekimae"
+  },
+  {
+   "name": "Tsuta Onsen",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/Tsuta+Onsen/data=!4m2!3m1!1s0x5f9b1444b8a912e7:0x8846516c26de8453",
+   "origName": "Tsuta Onsen"
+  },
+  {
+   "name": "Furofushi Onsen",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/Furofushi+Onsen/data=!4m2!3m1!1s0x5f9a4260a473903d:0x994f1533fe72de78",
+   "origName": "Furofushi Onsen"
+  },
+  {
+   "name": "新城堡飯店",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/%E6%96%B0%E5%9F%8E%E5%A0%A1%E9%A3%AF%E5%BA%97/data=!4m2!3m1!1s0x5f9b01c1dde2786f:0xc08fd828abde7485",
+   "origName": "新城堡飯店"
+  },
+  {
+   "name": "APA飯店 青森站東",
+   "cat": "🇯🇵 日本旅遊",
+   "region": "日本青森・東北",
+   "notes": "",
+   "lists": [
+    "想去的地點"
+   ],
+   "url": "https://www.google.com/maps/place/APA%E9%A3%AF%E5%BA%97+%E9%9D%92%E6%A3%AE%E7%AB%99%E6%9D%B1/data=!4m2!3m1!1s0x5f9b9f1e13da284f:0xc5f50c8652edfa2b",
+   "origName": "APA飯店 青森站東"
+  }
+ ]
+}
